@@ -74,9 +74,9 @@ creation,size,fullpath,added,removed,wayback_url
 2024-09-13 02:44:10,685458055,app/DecoComRelease_3.8.10950_com_202408082315.ipa,initial crawl,,http://web.archive.org/web/20251212024145/http://download.tplinkcloud.com/app/DecoComRelease_3.8.10950_com_202408082315.ipa
 2025-01-15 01:25:24,698811100,app/DecoComRelease_3.8.1291079_com_202412050525.ipa,initial crawl,,http://web.archive.org/web/20251212024420/http://download.tplinkcloud.com/app/DecoComRelease_3.8.1291079_com_202412050525.ipa
 2025-03-26 08:05:33,708023771,app/DecoComRelease_3.8.1501100_com_202501240606.ipa,initial crawl,,http://web.archive.org/web/20251210024902/http://download.tplinkcloud.com/app/DecoComRelease_3.8.1501100_com_202501240606.ipa
-2025-02-20 09:26:32,708013388,app/DecoComRelease_3.8.1571108_com_202501242317.ipa,initial crawl,,
+2025-02-20 09:26:32,708013388,app/DecoComRelease_3.8.1571108_com_202501242317.ipa,initial crawl,,http://web.archive.org/web/20251213023800/http://download.tplinkcloud.com/app/DecoComRelease_3.8.1571108_com_202501242317.ipa
 2024-09-10 01:59:33,686919068,app/DecoComRelease_3.8.23963_com_202408210116.ipa,initial crawl,,
-2024-09-19 01:27:10,686917920,app/DecoComRelease_3.8.24964_com_202408260200.ipa,initial crawl,,
+2024-09-19 01:27:10,686917920,app/DecoComRelease_3.8.24964_com_202408260200.ipa,initial crawl,,https://web.archive.org/web/20251214024518/http://download.tplinkcloud.com/app/DecoComRelease_3.8.24964_com_202408260200.ipa
 2025-01-15 02:06:30,695687975,app/DecoComRelease_3.8.691009_com_202410140057.ipa,initial crawl,,
 2025-01-15 02:08:12,695795153,app/DecoComRelease_3.8.761016_com_202410302242.ipa,initial crawl,,
 2025-11-03 00:46:09,319088973,app/DecoComRelease_3.9.1131414_com_202506300317.ipa,initial crawl,,
@@ -31037,6 +31037,10 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-10 13:00:02,2091860,firmware/assigned/H110_JP_1.4.6_Build_251210_Rel.204826_2025-12-10_20.50.47_1765371600784.bin,2025-12-11,,
 2025-12-11 10:40:04,2042708,firmware/assigned/H110_JP_1.4.7_Build_251211_Rel.180210_2025-12-11_18.05.00_1765449602712.bin,2025-12-12,,
 2025-12-11 10:40:06,2042708,firmware/assigned/H110_JP_1.4.7_Build_251211_Rel.180210_2025-12-11_18.05.00_1765449604881.bin,2025-12-12,,
+2025-12-13 11:20:05,2042708,firmware/assigned/H110_JP_1.4.7_Build_251213_Rel.185256_2025-12-13_18.56.42_1765624803285.bin,2025-12-14,,
+2025-12-13 11:20:12,2042708,firmware/assigned/H110_JP_1.4.7_Build_251213_Rel.185256_2025-12-13_18.56.42_1765624810818.bin,2025-12-14,,
+2025-12-13 11:20:02,2042708,firmware/assigned/H110_JP_1.4.7_Build_251213_Rel.190522_2025-12-13_19.06.00_1765624800760.bin,2025-12-14,,
+2025-12-13 11:20:07,2042708,firmware/assigned/H110_JP_1.4.7_Build_251213_Rel.190522_2025-12-13_19.06.00_1765624805838.bin,2025-12-14,,
 2025-10-15 02:00:07,2009940,firmware/assigned/H110_JP_1.99.99_Build_250929_Rel.152717_2025-09-29_15.29.10_1760493605859.bin,initial crawl,,
 2025-10-15 10:20:16,2009940,firmware/assigned/H110_JP_1.99.99_Build_250929_Rel.152717_2025-09-29_15.29.10_1760523615141.bin,initial crawl,,
 2025-08-27 09:00:35,2022292,firmware/assigned/H110_JP_99.99.99_Build_250827_Rel.104854_2025-08-27_10.52.15_1756285233416.bin,initial crawl,,
@@ -34408,6 +34412,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-11-17 10:40:02,143247,firmware/assigned/T150(EU)_1.6.0_Build_251117_Rel.175637_2025-11-17_18.07.57_1763376000525.bin,initial crawl,,
 2025-11-18 13:00:02,143119,firmware/assigned/T150(EU)_1.7.0_Build_251118_Rel.201939_2025-11-18_20.20.19_1763470800448.bin,initial crawl,,
 2025-11-21 11:40:26,143247,firmware/assigned/T150(EU)_1.9.0_Build_251121_Rel.154751_2025-11-21_18.37.06_1763725224596.bin,initial crawl,,
+2025-12-13 11:20:09,143087,firmware/assigned/T150(EU)_2.1.0_Build_251213_Rel.185605_2025-12-13_18.58.05_1765624807862.bin,2025-12-14,,
 2025-12-10 13:00:04,143087,firmware/assigned/T150(EU)test_1.15.0_Build_251209_Rel.185810_2025-12-10_09.07.43_1765371602641.bin,2025-12-11,,
 2025-09-04 12:00:09,144959,firmware/assigned/T150(EU)test_1.3.0_Build_250903_Rel.160850_2025-09-03_16.11.42_1756987207539.bin,initial crawl,,
 2025-09-05 02:20:02,144959,firmware/assigned/T150(EU)test_1.3.0_Build_250903_Rel.160850_2025-09-03_16.11.42_1757038800520.bin,initial crawl,,
@@ -36039,6 +36044,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-09-19 09:20:10,12529892,firmware/assigned/Tapo_C245Dv1_en_1.0.1_Build_250910_Rel.72472n_up_boot-signed_1758273608725.bin,initial crawl,,
 2025-10-28 05:40:05,13410008,firmware/assigned/Tapo_C245Dv1_en_1.0.1_Build_251024_Rel.70754n_up_boot-signed_1761630004192.bin,initial crawl,,
 2025-10-30 10:00:24,12587728,firmware/assigned/Tapo_C245Dv1_en_1.0.2_Build_251031_Rel.74526n_up_boot-signed_1761818423071.bin,initial crawl,,
+2025-12-13 07:40:22,12592300,firmware/assigned/Tapo_C245Dv1_en_1.0.3_Build_251212_Rel.39539n_up_boot-signed_1765611620670.bin,2025-12-14,,
 2025-08-05 06:41:45,10228196,firmware/assigned/Tapo_C245Dv1_en_1.2.0_Build_250804_Rel.62087n_up_boot-signed_1754376103357.bin,initial crawl,,
 2025-08-16 11:00:06,10522104,firmware/assigned/Tapo_C245Dv1_en_1.2.0_Build_250816_Rel.64479n_up_boot-signed_1755342004987.bin,initial crawl,,
 2025-08-20 09:20:15,10522048,firmware/assigned/Tapo_C245Dv1_en_1.2.0_Build_250818_Rel.61552n_up_boot-signed_1755681614003.bin,initial crawl,,
