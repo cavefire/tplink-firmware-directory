@@ -75,7 +75,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-01-15 01:25:24,698811100,app/DecoComRelease_3.8.1291079_com_202412050525.ipa,initial crawl,,http://web.archive.org/web/20251212024420/http://download.tplinkcloud.com/app/DecoComRelease_3.8.1291079_com_202412050525.ipa
 2025-03-26 08:05:33,708023771,app/DecoComRelease_3.8.1501100_com_202501240606.ipa,initial crawl,,http://web.archive.org/web/20251210024902/http://download.tplinkcloud.com/app/DecoComRelease_3.8.1501100_com_202501240606.ipa
 2025-02-20 09:26:32,708013388,app/DecoComRelease_3.8.1571108_com_202501242317.ipa,initial crawl,,http://web.archive.org/web/20251213023800/http://download.tplinkcloud.com/app/DecoComRelease_3.8.1571108_com_202501242317.ipa
-2024-09-10 01:59:33,686919068,app/DecoComRelease_3.8.23963_com_202408210116.ipa,initial crawl,,
+2024-09-10 01:59:33,686919068,app/DecoComRelease_3.8.23963_com_202408210116.ipa,initial crawl,,https://web.archive.org/web/20251215024707/http://download.tplinkcloud.com/app/DecoComRelease_3.8.23963_com_202408210116.ipa
 2024-09-19 01:27:10,686917920,app/DecoComRelease_3.8.24964_com_202408260200.ipa,initial crawl,,https://web.archive.org/web/20251214024518/http://download.tplinkcloud.com/app/DecoComRelease_3.8.24964_com_202408260200.ipa
 2025-01-15 02:06:30,695687975,app/DecoComRelease_3.8.691009_com_202410140057.ipa,initial crawl,,
 2025-01-15 02:08:12,695795153,app/DecoComRelease_3.8.761016_com_202410302242.ipa,initial crawl,,
@@ -2330,6 +2330,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-04-23 07:07:47,22151437,firmware/Archer_VR1210vv2_0.13.0_2.0.0_UP_BOOT_agc3000(240429)_2024-04-30_11.04.40_1745392065431.bin,initial crawl,,
 2025-04-23 07:52:11,22151437,firmware/Archer_VR1210vv2_0.13.0_2.0.0_UP_BOOT_agc3000(240429)_2024-04-30_11.04.40_1745394729508.bin,initial crawl,,
 2025-12-09 02:22:07,23530312,firmware/Archer_VR1210vv2_0.2.0_2.0.0_UP_BOOT_agc3000(240929)_2024-09-30_09.53.19_1765246925493.bin,2025-12-09,,
+2025-12-14 08:07:38,23530312,firmware/Archer_VR1210vv2_0.2.0_2.0.0_UP_BOOT_agc3000(240929)_2024-09-30_09.53.19_1765699656531.bin,2025-12-15,,
 2017-01-17 07:48:19,16384512,firmware/Archer_VR200vv2_0.2.0_0.8.0_up_boot(161202)_2_1484639297840.bin,initial crawl,,http://web.archive.org/web/20240119232131/http://download.tplinkcloud.com/firmware/Archer_VR200vv2_0.2.0_0.8.0_up_boot%28161202%29_2_1484639297840.bin
 2020-03-02 06:57:22,23138973,firmware/Archer_VR2100V1_1.0.0_0.9.1_up_boot191218_201_1583132240467.bin,initial crawl,,
 2020-03-09 09:31:06,23136341,firmware/Archer_VR2100V1_1.1.0_0.9.1_up_boot200116_202_1583746263929.bin,initial crawl,,
@@ -31409,6 +31410,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-11-18 06:00:09,6069165,firmware/assigned/H200-up-ver1-6-0-P1[20251113-rel54934]-signed_1763445607746.bin,initial crawl,,
 2025-11-20 04:20:08,6073261,firmware/assigned/H200-up-ver1-6-0-P1[20251118-rel41482]-signed_1763612406393.bin,initial crawl,,
 2025-12-03 11:40:57,6073261,firmware/assigned/H200-up-ver1-6-0-P1[20251201-rel65750]-signed_1764762055748.bin,2025-12-04,,
+2025-12-15 02:41:19,6073261,firmware/assigned/H200-up-ver1-6-0-P1[20251212-rel62836]-signed_1765766477872.bin,2025-12-15,,
 2025-12-10 07:00:05,6085549,firmware/assigned/H200-up-ver1-6-1-P1[20251210-rel49984]-signed_1765350004145.bin,2025-12-11,,
 2023-09-12 07:40:44,19288249,firmware/assigned/H500-DEBUG-up-ver1-0-99-P1[20230912-rel19051]-signed_1694504442280.bin,initial crawl,,
 2024-01-15 03:00:33,14167844,firmware/assigned/H500-DEBUG-up-ver1-0-99-P1[20240115-rel38236]-signed_1705287631555.bin,initial crawl,,
@@ -37144,6 +37146,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-08-27 08:40:12,16908800,firmware/assigned/Tapo_C425v1_en_1.3.12_Build_250825_Rel.64807n_up_boot-signed_1756284010260.bin,initial crawl,,
 2025-11-27 02:20:09,16908800,firmware/assigned/Tapo_C425v1_en_1.3.12_Build_251127_Rel.34392n_up_boot-signed_1764210008101.bin,2025-11-27,,
 2025-12-12 10:20:11,16908800,firmware/assigned/Tapo_C425v1_en_1.3.13_Build_251212_Rel.63261n_up_boot-signed_1765534809622.bin,2025-12-13,,
+2025-12-15 02:40:50,16908800,firmware/assigned/Tapo_C425v1_en_1.3.13_Build_251212_Rel.63261n_up_boot-signed_1765766448387.bin,2025-12-15,,
 2023-10-27 06:20:03,17695232,firmware/assigned/Tapo_C425v1_en_1.3.1_Build_231020_Rel.53520n_up_boot-signed_1697788838818.bin.rollback,initial crawl,,
 2023-10-20 13:00:05,17695232,firmware/assigned/Tapo_C425v1_en_1.3.1_Build_231020_Rel.62794n_up_boot-signed_1697797238698.bin.rollback,initial crawl,,
 2023-10-26 02:00:03,17695232,firmware/assigned/Tapo_C425v1_en_1.3.1_Build_231020_Rel.74204n_up_boot-signed_1697807007487.bin.rollback,initial crawl,,
@@ -38123,6 +38126,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-08 10:00:13,14654658,firmware/assigned/Tapo_C520WSv2_en_1.2.1_Build_251208_Rel.61444n_up_boot-signed_1765188011628.bin,2025-12-09,,
 2025-12-08 12:40:37,14654658,firmware/assigned/Tapo_C520WSv2_en_1.2.1_Build_251208_Rel.61444n_up_boot-signed_1765197635245.bin,2025-12-09,,
 2025-12-09 12:20:06,14654974,firmware/assigned/Tapo_C520WSv2_en_1.2.1_Build_251209_Rel.38300n_up_boot-signed_1765282804247.bin,2025-12-10,,
+2025-12-15 02:00:04,14650394,firmware/assigned/Tapo_C520WSv2_en_1.2.1_Build_251212_Rel.40007n_up_boot-signed_1765764002245.bin,2025-12-15,,
 2025-09-23 02:40:03,14648802,firmware/assigned/Tapo_C520WSv2_en_1.2.2_Build_250916_Rel.70337n_up_boot-signed_1758187204096.bin.rollback,initial crawl,,
 2025-11-28 07:20:10,14652574,firmware/assigned/Tapo_C520WSv2_en_1.2.3_Build_251114_Rel.42534n_up_boot-signed_1764314408451.bin,2025-11-29,,
 2025-11-11 07:00:09,12906510,firmware/assigned/Tapo_C530WSv2_28_en_1.0.1_Build_251111_Rel.53021n_up_boot-signed_1762844407666.bin,initial crawl,,
@@ -38553,6 +38557,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-11-19 12:20:12,17695232,firmware/assigned/Tapo_C645D_en_1.1.6_Build_251114_Rel.38177n_up_boot-signed_1763554810721.bin,initial crawl,,
 2025-12-01 03:20:49,17695232,firmware/assigned/Tapo_C645D_en_1.1.6_Build_251127_Rel.55391n_up_boot-signed_1764559247999.bin,2025-12-02,,
 2025-12-08 02:20:29,17891840,firmware/assigned/Tapo_C645D_en_1.1.6_Build_251205_Rel.52782n_up_boot-signed_1765160428057.bin,2025-12-08,,
+2025-12-15 01:00:43,17695232,firmware/assigned/Tapo_C645D_en_1.1.6_Build_251212_Rel.57262n_up_boot-signed_1765760441217.bin,2025-12-15,,
 2025-10-23 08:01:10,17695232,firmware/assigned/Tapo_C645D_en_15.15.15_Build_251023_Rel.43769n_up_boot-signed_1761206469025.bin,initial crawl,,
 2024-10-11 03:20:03,19005952,firmware/assigned/Tapo_C660_en_1.0.0_Build_240904_Rel.66082n_up_boot-signed_1728612085464.bin.rollback,initial crawl,,
 2025-04-15 15:00:03,15860224,firmware/assigned/Tapo_C660_en_1.0.10_Build_250414_Rel.76489n_up_boot-signed_1744638007525.bin.rollback,initial crawl,,
@@ -38675,6 +38680,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-10 06:40:04,16253440,firmware/assigned/Tapo_C660_en_1.1.5_Build_251202_Rel.74750n_up_boot-signed_1765348802864.bin,2025-12-11,,
 2025-12-05 16:00:24,16450048,firmware/assigned/Tapo_C660_en_1.1.7_Build_251205_Rel.80775n_up_boot-signed_1764950422426.bin,2025-12-06,,
 2025-12-09 09:00:03,16253440,firmware/assigned/Tapo_C660_en_1.1.7_Build_251205_Rel.81664n_up_boot-signed_1765267317308.bin.rollback,2025-12-10,,
+2025-12-15 01:20:03,16253440,firmware/assigned/Tapo_C660_en_1.1.7_Build_251205_Rel.81664n_up_boot-signed_1765761601947.bin,2025-12-15,,
 2025-11-27 03:21:04,54811948,firmware/assigned/Tapo_C665G_en_1.0.0_Build_251124_Rel.81784n_up_boot-signed_1764213662664.bin,2025-11-28,2025-11-29,
 2025-11-28 03:20:03,54811948,firmware/assigned/Tapo_C665G_en_1.0.0_Build_251124_Rel.81784n_up_boot-signed_1764213662664.bin.rollback,2025-11-29,,
 2025-11-28 03:00:13,54811948,firmware/assigned/Tapo_C665G_en_1.0.0_Build_251124_Rel.81784n_up_boot-signed_1764298811469.bin,2025-11-29,,
@@ -38792,6 +38798,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-09 08:02:05,22217216,firmware/assigned/Tapo_C668Bv1_en_1.0.2_Build_251125_Rel.50839n_up_boot-signed_1765267324060.bin,2025-12-10,,
 2025-11-25 09:00:30,22217216,firmware/assigned/Tapo_C668Bv1_en_1.0.2_Build_251125_Rel.55457n_up_boot-signed_1764061228778.bin,2025-11-26,,
 2025-12-12 11:20:18,22151680,firmware/assigned/Tapo_C668Bv1_en_1.0.2_Build_251212_Rel.60592n_up_boot-signed_1765538416574.bin,2025-12-13,,
+2025-12-15 02:20:55,22282752,firmware/assigned/Tapo_C668Bv1_en_1.0.2_Build_251214_Rel.77933n_up_boot-signed_1765765253757.bin,2025-12-15,,
 2025-07-18 01:20:03,16384512,firmware/assigned/Tapo_C675dv1_en_1.0.0_Build_250714_Rel.67299n_up_boot2-signed_1752492026386.bin.rollback,initial crawl,,
 2025-07-18 01:20:08,16384512,firmware/assigned/Tapo_C675dv1_en_1.0.0_Build_250714_Rel.68535n_up_boot2-signed_1752573603298.bin.rollback,initial crawl,,
 2025-07-18 01:20:04,16384512,firmware/assigned/Tapo_C675dv1_en_1.0.0_Build_250717_Rel.42152n_up_boot2-signed_1752801603120.bin,initial crawl,,
