@@ -84,7 +84,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-18 17:32:03,319093916,app/DecoComRelease_3.9.1181418_com_202508050417.ipa,2025-12-19,,https://web.archive.org/web/20251220024011/http://download.tplinkcloud.com/app/DecoComRelease_3.9.1181418_com_202508050417.ipa
 2025-04-08 02:22:51,523769387,app/DecoComRelease_3.9.121314_com_202503252340.ipa,initial crawl,,https://web.archive.org/web/20251218024219/http://download.tplinkcloud.com/app/DecoComRelease_3.9.121314_com_202503252340.ipa
 2025-12-18 17:29:51,322073225,app/DecoComRelease_3.9.2091509_com_202508201816.ipa,2025-12-19,,https://web.archive.org/web/20251219024353/https://download.tplinkcloud.com/app/DecoComRelease_3.9.2091509_com_202508201816.ipa
-2025-12-18 17:25:21,322665452,app/DecoComRelease_3.9.2511551_com_202509090244.ipa,2025-12-19,,
+2025-12-18 17:25:21,322665452,app/DecoComRelease_3.9.2511551_com_202509090244.ipa,2025-12-19,,https://web.archive.org/web/20251221025233/http://download.tplinkcloud.com/app/DecoComRelease_3.9.2511551_com_202509090244.ipa
 2025-06-19 03:45:44,527983839,app/DecoComRelease_3.9.501350_com_202504100042.ipa,initial crawl,,https://web.archive.org/web/20251218024650/http://download.tplinkcloud.com/app/DecoComRelease_3.9.501350_com_202504100042.ipa
 2025-12-18 17:28:13,312045679,app/DecoComRelease_3.9.851385_com_202505260542.ipa,2025-12-19,,
 2025-06-19 03:44:37,523772691,app/DecoComRelease_3.9.91309_com_202503070004.ipa,initial crawl,,
@@ -38726,6 +38726,8 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-16 04:00:32,17236480,firmware/assigned/Tapo_C615G_en_1.1.4_Build_251216_Rel.34338n_up_boot-signed_1765857630531.bin,2025-12-17,,
 2025-12-19 01:40:07,17236480,firmware/assigned/Tapo_C615G_en_1.1.4_Build_251217_Rel.72688n_up_boot-signed_1766108405902.bin,2025-12-19,,
 2025-12-19 05:40:06,17236480,firmware/assigned/Tapo_C615G_en_1.1.4_Build_251217_Rel.72688n_up_boot-signed_1766122805117.bin,2025-12-20,,
+2025-12-20 05:00:51,17236480,firmware/assigned/Tapo_C615G_en_1.1.4_Build_251219_Rel.38965n_up_boot-signed_1766206849433.bin,2025-12-21,,
+2025-12-20 05:00:55,17236480,firmware/assigned/Tapo_C615G_en_1.1.4_Build_251219_Rel.38965n_up_boot-signed_1766206853869.bin,2025-12-21,,
 2025-12-19 06:03:17,17236480,firmware/assigned/Tapo_C615G_en_1.1.4_Build_251219_Rel.40040n_up_boot-signed_1766124195668.bin,2025-12-20,,
 2025-10-11 06:20:27,17105408,firmware/assigned/Tapo_C615G_en_1.1.5_Build_251011_Rel.41784n_up_boot-signed_1760163625803.bin,initial crawl,,
 2025-10-27 07:01:42,17105408,firmware/assigned/Tapo_C615G_en_1.1.5_Build_251016_Rel.51254n_up_boot-signed_1761548500559.bin,initial crawl,,
@@ -39011,6 +39013,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-10 02:40:18,46319872,firmware/assigned/Tapo_C665G_en_1.3.0_Build_251210_Rel.33994n_up_boot-signed_1765334416723.bin,2025-12-11,,
 2025-12-12 01:21:00,46319872,firmware/assigned/Tapo_C665G_en_1.3.0_Build_251211_Rel.54036n_up_boot-signed_1765502458716.bin,2025-12-12,,
 2025-12-19 08:16:50,46319872,firmware/assigned/Tapo_C665G_en_1.3.0_Build_251211_Rel.54036n_up_boot-signed_1766132208362.bin,2025-12-20,,
+2025-12-20 04:00:21,46319872,firmware/assigned/Tapo_C665G_en_1.3.0_Build_251211_Rel.54036n_up_boot-signed_1766203219571.bin,2025-12-21,,
 2025-12-11 13:40:46,46319872,firmware/assigned/Tapo_C665G_en_1.3.0_Build_251211_Rel.75489n_up_boot-signed_1765460444299.bin,2025-12-12,,
 2025-12-16 08:40:03,46319872,firmware/assigned/Tapo_C665G_en_1.3.0_Build_251212_Rel.77261n_up_boot-signed (1)_1765869606795.bin.rollback,2025-12-17,,
 2025-12-16 08:41:26,46254336,firmware/assigned/Tapo_C665G_en_1.3.0_Build_251216_Rel.53171n_up_boot-signed_1765874484447.bin,2025-12-17,2025-12-20,
