@@ -87,7 +87,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-18 17:25:21,322665452,app/DecoComRelease_3.9.2511551_com_202509090244.ipa,2025-12-19,,https://web.archive.org/web/20251221025233/http://download.tplinkcloud.com/app/DecoComRelease_3.9.2511551_com_202509090244.ipa
 2025-06-19 03:45:44,527983839,app/DecoComRelease_3.9.501350_com_202504100042.ipa,initial crawl,,https://web.archive.org/web/20251218024650/http://download.tplinkcloud.com/app/DecoComRelease_3.9.501350_com_202504100042.ipa
 2025-12-18 17:28:13,312045679,app/DecoComRelease_3.9.851385_com_202505260542.ipa,2025-12-19,,
-2025-06-19 03:44:37,523772691,app/DecoComRelease_3.9.91309_com_202503070004.ipa,initial crawl,,
+2025-06-19 03:44:37,523772691,app/DecoComRelease_3.9.91309_com_202503070004.ipa,initial crawl,,https://web.archive.org/web/20251222024641/http://download.tplinkcloud.com/app/DecoComRelease_3.9.91309_com_202503070004.ipa
 2024-09-27 01:04:36,93797407,app/Festa-1.6.9-20240911091829-prd-normal-dist-release.apk,initial crawl,,
 2025-12-10 22:24:42,93870699,app/Festa-1.7.3-20250925015226-prd-normal-dist-release.apk,2025-12-11,,
 2023-08-21 00:45:43,46244146,app/Festa_1.0.4_release_prd_normal_dist_20230808112215_1692578740804.apk,initial crawl,,http://web.archive.org/web/20240121112315/http://download.tplinkcloud.com/app/Festa_1.0.4_release_prd_normal_dist_20230808112215_1692578740804.apk
@@ -1455,6 +1455,10 @@ creation,size,fullpath,added,removed,wayback_url
 2025-03-12 09:22:25,15279165,firmware/AX1800v2.0_jp_AX23V_v1.0_jp_kr-up-ver1-0-4-P1[20241225-rel58594]_2024-12-25_16.20.52_1741771343508.bin,initial crawl,,
 2025-03-12 09:22:52,15279165,firmware/AX1800v2.0_jp_AX23V_v1.0_jp_kr-up-ver1-0-4-P1[20241225-rel58594]_2024-12-25_16.20.52_1741771371096.bin,initial crawl,,
 2025-07-18 06:08:13,15279165,firmware/AX1800v2.0_jp_AX23V_v1.0_jp_kr-up-ver1-0-5-P1[20250702-rel14985]_2025-07-02_19.11.58_1752818891986.bin,initial crawl,,
+2025-12-22 01:25:05,15279247,firmware/AX1800v2.0_jp_AX23V_v1.0_jp_kr-up-ver1-0-6-P1[20250918-rel41624]_2025-09-18_11.35.36_1766366704034.bin,2025-12-22,,
+2025-12-22 01:29:18,15279247,firmware/AX1800v2.0_jp_AX23V_v1.0_jp_kr-up-ver1-0-6-P1[20250918-rel41624]_2025-09-18_11.35.36_1766366956587.bin,2025-12-22,,
+2025-12-22 01:33:48,15279247,firmware/AX1800v2.0_jp_AX23V_v1.0_jp_kr-up-ver1-0-6-P1[20250918-rel41624]_2025-09-18_11.35.36_1766367226800.bin,2025-12-22,,
+2025-12-22 01:34:38,15279247,firmware/AX1800v2.0_jp_AX23V_v1.0_jp_kr-up-ver1-0-6-P1[20250918-rel41624]_2025-09-18_11.35.36_1766367277032.bin,2025-12-22,,
 2023-06-06 02:52:34,13171956,firmware/AX20v4.6_us-up-ver1-0-5-P120221025-rel60088_20_1686019952162.bin,initial crawl,,http://web.archive.org/web/20240121102411/http://download.tplinkcloud.com/firmware/AX20v4.6_us-up-ver1-0-5-P120221025-rel60088_20_1686019952162.bin
 2023-06-01 07:38:54,13172036,firmware/AX21v4.6_us-up-ver1-0-5-P1[20221116-rel40103]_2022-11-16_11.08.35_1685605132852.bin,initial crawl,,http://web.archive.org/web/20240110190539/http://download.tplinkcloud.com/firmware/AX21v4.6_us-up-ver1-0-5-P1%5B20221116-rel40103%5D_2022-11-16_11.08.35_1685605132852.bin
 2023-08-08 00:52:36,14254897,firmware/AX23_eu_jp_kr_ru-up-ver1-1-0-P1[20230725-rel56344]_2023-07-25_15.41.43_1691455954835.bin,initial crawl,,http://web.archive.org/web/20240129204728/http://download.tplinkcloud.com/firmware/AX23_eu_jp_kr_ru-up-ver1-1-0-P1%5B20230725-rel56344%5D_2023-07-25_15.41.43_1691455954835.bin
@@ -6968,6 +6972,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-03-20 21:22:05,38929049,firmware/HB610V2v1_0.4.0_3.0.0_UP_BOOT_2025-02-14_17.02.22_1742295126635.bin.rollback,initial crawl,,
 2025-08-12 07:09:38,38929051,firmware/HB610V2v1_0.4.0_3.0.0_UP_BOOT_2025-03-11_14.40.43_1754982576156.bin,initial crawl,,
 2025-08-12 07:11:16,38929051,firmware/HB610V2v1_0.4.0_3.0.0_UP_BOOT_2025-03-11_14.40.43_1754982674318.bin,initial crawl,,
+2025-12-22 01:52:56,40501914,firmware/HB610V2v1_0.5.0_3.0.0_UP_BOOT_2025-09-18_17.29.33_1766368374955.bin,2025-12-22,,
 2025-03-21 10:37:53,46400461,firmware/HB611-SGSTv1_0.3.0_3.0.0_UP_BOOT_2024-08-10_10.12.21_1742553471410.bin,initial crawl,,
 2025-03-24 03:37:38,46400461,firmware/HB611-SGSTv1_0.3.0_3.0.0_UP_BOOT_2024-08-10_10.12.21_1742787456315.bin,initial crawl,,
 2024-12-20 08:53:12,46400457,firmware/HB611-SGSTv1_0.4.0_3.0.0_UP_BOOT_2024-09-06_09.40.07_1734684790812.bin,initial crawl,,http://web.archive.org/web/20251122182808/http://download.tplinkcloud.com/firmware/HB611-SGSTv1_0.4.0_3.0.0_UP_BOOT_2024-09-06_09.40.07_1734684790812.bin
@@ -7355,6 +7360,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-09-04 01:59:09,23725002,firmware/HX520_UP_BOOT_2025-08-08_18.07.07_1756951148141.bin,initial crawl,,
 2025-11-18 01:22:33,24642203,firmware/HX520_UP_BOOT_2025-10-15_17.44.48_1763428952161.bin,initial crawl,,
 2025-12-01 12:52:29,24642203,firmware/HX520_UP_BOOT_2025-10-15_17.44.48_1764593547673.bin,2025-12-02,,
+2025-12-22 02:04:24,24642203,firmware/HX520_UP_BOOT_2025-10-15_17.44.48_1766369062198.bin,2025-12-22,,
 2023-05-30 09:23:02,26739364,firmware/HX710_Prov1_0.1.0_3.0.0_UP_BOOT_2022-11-22_10._1685438580581.bin,initial crawl,,http://web.archive.org/web/20240123005842/http://download.tplinkcloud.com/firmware/HX710_Prov1_0.1.0_3.0.0_UP_BOOT_2022-11-22_10._1685438580581.bin
 2023-05-30 09:38:02,26739364,firmware/HX710_Prov1_0.1.0_3.0.0_UP_BOOT_2022-11-22_10._1685439479968.bin,initial crawl,,http://web.archive.org/web/20240127012738/http://download.tplinkcloud.com/firmware/HX710_Prov1_0.1.0_3.0.0_UP_BOOT_2022-11-22_10._1685439479968.bin
 2023-05-30 09:39:09,26739364,firmware/HX710_Prov1_0.1.0_3.0.0_UP_BOOT_2022-11-22_10._1685439546792.bin,initial crawl,,http://web.archive.org/web/20240201190648/http://download.tplinkcloud.com/firmware/HX710_Prov1_0.1.0_3.0.0_UP_BOOT_2022-11-22_10._1685439546792.bin
@@ -12607,7 +12613,9 @@ creation,size,fullpath,added,removed,wayback_url
 2025-11-26 08:54:35,161874594,firmware/NX511vv1_full_1.2.0_3.0.0_UP_BOOT_2025-07-10_09.52.34_1764147272620.bin,2025-11-27,,
 2025-12-01 06:40:45,161874594,firmware/NX511vv1_full_1.2.0_3.0.0_UP_BOOT_2025-07-10_09.52.34_1764571243304.bin,2025-12-02,2025-12-13,
 2025-12-12 13:52:05,161874594,firmware/NX511vv1_full_1.2.0_3.0.0_UP_BOOT_2025-07-10_09.52.34_1764571243304.bin.rollback,2025-12-13,,
+2025-12-22 01:40:36,92638476,firmware/NX520(BGA1)v1_1.0.0_3.0.0_UP_BOOT_2025-08-09_19.22.38_1766367634330.bin,2025-12-22,,
 2025-11-28 01:53:52,91048139,firmware/NX520(SRBA1)v1_1.0.0_3.0.0_UP_BOOT_2025-09-15_17.38.28_1764294830126.bin,2025-11-28,,
+2025-12-22 01:32:40,90938618,firmware/NX520v(MKA1)v1_1.0.0_3.0.0_UP_BOOT_2025-10-17_10.46.43_1766367158259.bin,2025-12-22,,
 2025-11-21 09:43:27,90515052,firmware/NX520v(PLPLAY)v1_1.0.0_3.0.0_UP_BOOT_2025-09-13_18.08.13_1763718205669.bin,initial crawl,,
 2025-11-26 08:53:12,91186583,firmware/NX520v(PLPLAY)v1_1.1.0_3.0.0_UP_BOOT_2025-10-17_14.28.26_1764147190202.bin,2025-11-27,,
 2025-11-27 08:43:12,91186583,firmware/NX520v(PLPLAY)v1_1.1.0_3.0.0_UP_BOOT_2025-10-17_14.28.26_1764232990083.bin,2025-11-28,,
@@ -19100,6 +19108,8 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-17 07:08:16,15764244,firmware/Tapo_C260v1_en_1.1.8_Build_251205_Rel.64131n_up_boot-signed_1765955295016.bin,2025-12-18,,
 2025-12-18 06:10:59,15764244,firmware/Tapo_C260v1_en_1.1.8_Build_251205_Rel.64131n_up_boot-signed_1766038257628.bin,2025-12-19,,
 2025-12-18 07:08:56,15764244,firmware/Tapo_C260v1_en_1.1.8_Build_251205_Rel.64131n_up_boot-signed_1766041734878.bin,2025-12-19,,
+2025-12-22 01:36:13,15764244,firmware/Tapo_C260v1_en_1.1.8_Build_251205_Rel.64131n_up_boot-signed_1766367371328.bin,2025-12-22,,
+2025-12-22 02:03:45,15764244,firmware/Tapo_C260v1_en_1.1.8_Build_251205_Rel.64131n_up_boot-signed_1766369023757.bin,2025-12-22,,
 2021-08-04 01:52:04,7253028,firmware/Tapo_C310v1_en_1.0.12_Build_201128_Rel.15846n__1608512841030.bin.rollback,initial crawl,,http://web.archive.org/web/20240105091134/http://download.tplinkcloud.com/firmware/Tapo_C310v1_en_1.0.12_Build_201128_Rel.15846n__1608512841030.bin.rollback
 2021-08-04 01:52:14,7253028,firmware/Tapo_C310v1_en_1.0.12_Build_201128_Rel.15846n__1608512867527.bin.rollback,initial crawl,,http://web.archive.org/web/20240104093855/http://download.tplinkcloud.com/firmware/Tapo_C310v1_en_1.0.12_Build_201128_Rel.15846n__1608512867527.bin.rollback
 2021-08-04 01:52:18,7256384,firmware/Tapo_C310v1_en_1.0.13_Build_201217_Rel.53432n__1610440639600.bin.rollback,initial crawl,,http://web.archive.org/web/20240103122351/http://download.tplinkcloud.com/firmware/Tapo_C310v1_en_1.0.13_Build_201217_Rel.53432n__1610440639600.bin.rollback
@@ -31178,6 +31188,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-18 07:00:07,2026324,firmware/assigned/H110_JP_1.4.8_Build_251218_Rel.145200_2025-12-18_14.53.05_1766041206159.bin,2025-12-19,,
 2025-12-18 07:00:23,2026324,firmware/assigned/H110_JP_1.4.8_Build_251218_Rel.145200_2025-12-18_14.53.05_1766041221932.bin,2025-12-19,,
 2025-12-19 09:20:02,1993364,firmware/assigned/H110_JP_1.7.7_Build_251219_Rel.163422_sign_1766136000916.bin,2025-12-20,,
+2025-12-22 02:00:06,1993364,firmware/assigned/H110_JP_1.7.8_Build_251222_Rel.092608_2025-12-22_09.38.04_1766368804370.bin,2025-12-22,,
 2025-10-15 02:00:07,2009940,firmware/assigned/H110_JP_1.99.99_Build_250929_Rel.152717_2025-09-29_15.29.10_1760493605859.bin,initial crawl,,
 2025-10-15 10:20:16,2009940,firmware/assigned/H110_JP_1.99.99_Build_250929_Rel.152717_2025-09-29_15.29.10_1760523615141.bin,initial crawl,,
 2025-08-27 09:00:35,2022292,firmware/assigned/H110_JP_99.99.99_Build_250827_Rel.104854_2025-08-27_10.52.15_1756285233416.bin,initial crawl,,
@@ -31658,7 +31669,8 @@ creation,size,fullpath,added,removed,wayback_url
 2025-09-02 11:40:09,44480428,firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20250813-rel18286]-signed_1756813207909.bin,initial crawl,,
 2025-08-15 02:40:25,44282668,firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20250815-rel27601]-signed_1755225624088.bin,initial crawl,,
 2025-08-24 11:00:21,44284128,firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20250822-rel65691]-signed_1756033220063.bin,initial crawl,,
-2025-11-21 08:00:39,44284128,firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20250822-rel65691]-signed_1763712037543.bin,initial crawl,,
+2025-11-21 08:00:39,44284128,firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20250822-rel65691]-signed_1763712037543.bin,initial crawl,2025-12-22,
+2025-12-22 01:40:03,44284128,firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20250822-rel65691]-signed_1763712037543.bin.rollback,2025-12-22,,
 2025-09-02 03:22:40,44520320,firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20250901-rel58144]-signed_1756783358554.bin,initial crawl,,
 2025-09-04 08:00:20,44488576,firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20250904-rel42937]-signed_1756972818573.bin,initial crawl,,
 2025-09-05 02:01:19,44487144,firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20250904-rel71828]-signed_1757037677819.bin,initial crawl,,
@@ -36780,6 +36792,8 @@ creation,size,fullpath,added,removed,wayback_url
 2025-10-22 03:20:17,11993600,firmware/assigned/Tapo_C400v2_en_1.2.2_Build_250926_Rel.59425n_up_boot-signed_1761103215642.bin,initial crawl,,
 2025-11-03 06:40:08,12059136,firmware/assigned/Tapo_C400v2_en_1.2.2_Build_251030_Rel.57530n_up_boot-signed_1762152006541.bin,initial crawl,,
 2025-12-08 08:00:18,12059136,firmware/assigned/Tapo_C400v2_en_1.2.3_Build_251126_Rel.66100n_up_boot-signed_1765180816973.bin,2025-12-09,,
+2025-12-22 02:20:03,12059136,firmware/assigned/Tapo_C400v2_en_1.2.3_Build_251126_Rel.66519n_up_boot-signed_1766370001926.bin,2025-12-22,,
+2025-12-22 02:00:03,12059136,firmware/assigned/Tapo_C400v2_en_1.2.3_Build_251205_Rel.34913n_up_boot-signed_1766368801837.bin,2025-12-22,,
 2024-07-04 03:40:30,11796992,firmware/assigned/Tapo_C410v1_20_en_1.0.0_Build_240620_Rel.60317n_up_boot-signed_1720064428853.bin,initial crawl,,
 2024-07-04 07:40:29,11796992,firmware/assigned/Tapo_C410v1_20_en_1.0.0_Build_240627_Rel.37278n_up_boot-signed_1720078827790.bin,initial crawl,,
 2024-09-10 03:20:28,11862528,firmware/assigned/Tapo_C410v1_20_en_1.0.2_Build_240903_Rel.57729n_up_boot-signed_1725938426839.bin,initial crawl,,
@@ -38729,6 +38743,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-20 05:00:51,17236480,firmware/assigned/Tapo_C615G_en_1.1.4_Build_251219_Rel.38965n_up_boot-signed_1766206849433.bin,2025-12-21,,
 2025-12-20 05:00:55,17236480,firmware/assigned/Tapo_C615G_en_1.1.4_Build_251219_Rel.38965n_up_boot-signed_1766206853869.bin,2025-12-21,,
 2025-12-19 06:03:17,17236480,firmware/assigned/Tapo_C615G_en_1.1.4_Build_251219_Rel.40040n_up_boot-signed_1766124195668.bin,2025-12-20,,
+2025-12-21 03:17:59,17236480,firmware/assigned/Tapo_C615G_en_1.1.4_Build_251219_Rel.40040n_up_boot-signed_1766287077471.bin,2025-12-22,,
 2025-10-11 06:20:27,17105408,firmware/assigned/Tapo_C615G_en_1.1.5_Build_251011_Rel.41784n_up_boot-signed_1760163625803.bin,initial crawl,,
 2025-10-27 07:01:42,17105408,firmware/assigned/Tapo_C615G_en_1.1.5_Build_251016_Rel.51254n_up_boot-signed_1761548500559.bin,initial crawl,,
 2025-11-11 11:01:00,17105408,firmware/assigned/Tapo_C615G_en_1.1.5_Build_251016_Rel.51254n_up_boot-signed_1762858858709.bin,initial crawl,,
@@ -41122,6 +41137,11 @@ creation,size,fullpath,added,removed,wayback_url
 2025-04-24 02:43:01,46898163,firmware/ax73v2_all-up-ver1-1-2-P1[20250210-rel53421]_1024_sign_2025-02-10_15.05.08_1745462579746.bin,initial crawl,,
 2025-04-24 03:02:32,46898163,firmware/ax73v2_all-up-ver1-1-2-P1[20250210-rel53421]_2048_sign_2025-02-10_15.02.33_1745463750320.bin,initial crawl,,
 2025-08-11 01:31:24,48781803,firmware/ax73v2_all-up-ver1-2-1-P1[20250717-rel40826]_2048_sign_2025-07-17_14.57.12_1754875882243.bin,initial crawl,,
+2025-12-22 01:22:31,48781803,firmware/ax73v2_all-up-ver1-2-1-P1[20250717-rel40826]_2048_sign_2025-07-17_14.57.12_1766366549539.bin,2025-12-22,,
+2025-12-22 01:27:40,48781803,firmware/ax73v2_all-up-ver1-2-1-P1[20250717-rel40826]_2048_sign_2025-07-17_14.57.12_1766366858897.bin,2025-12-22,,
+2025-12-22 01:31:21,48781803,firmware/ax73v2_all-up-ver1-2-1-P1[20250717-rel40826]_2048_sign_2025-07-17_14.57.12_1766367079167.bin,2025-12-22,,
+2025-12-22 01:34:22,48781803,firmware/ax73v2_all-up-ver1-2-1-P1[20250717-rel40826]_2048_sign_2025-07-17_14.57.12_1766367260997.bin,2025-12-22,,
+2025-12-22 01:34:58,48781803,firmware/ax73v2_all-up-ver1-2-1-P1[20250717-rel40826]_2048_sign_2025-07-17_14.57.12_1766367296135.bin,2025-12-22,,
 2022-06-13 01:28:31,42606602,firmware/ax73v2_eu-up-ver1-0-2-P120220524-rel51659_2022_1655083709465.bin,initial crawl,,
 2022-11-28 03:38:50,44014041,firmware/ax73v2_ru-up-ver1-0-6-P120221021-rel75448_2022_1669606728336.bin,initial crawl,,
 2022-06-13 01:37:22,42545162,firmware/ax73v2_us-up-ver1-0-2-P120220519-rel54580_2022_1655084239943.bin,initial crawl,,
@@ -41354,6 +41374,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-11-21 01:32:00,53285311,firmware/axe75v1-up-ver1-4-1-P1[20250717-rel40472]_2048_sign_2025-07-17_14.13.26_1763688718162.bin,initial crawl,,
 2025-11-21 01:32:35,53285311,firmware/axe75v1-up-ver1-4-1-P1[20250717-rel40472]_2048_sign_2025-07-17_14.13.26_1763688753320.bin,initial crawl,,
 2025-11-21 01:37:54,53285311,firmware/axe75v1-up-ver1-4-1-P1[20250717-rel40472]_2048_sign_2025-07-17_14.13.26_1763689072286.bin,initial crawl,,
+2025-12-22 01:30:37,36835795,firmware/axe75v2-up-ver1-0-1-P1[20251027-rel43712]-2048_sign_2025-10-27_13.50.12_1766367035791.bin,2025-12-22,,
 2021-11-22 11:53:44,46670349,firmware/axe95v1-up-ver1-0-0-P120210818-rel54255_2021-0_1637582022647.bin,initial crawl,,
 2022-05-23 12:28:14,44843879,firmware/axe95v1-up-ver1-0-1-P120220422-rel65230_nosign_1653308891914.bin,initial crawl,,
 2022-12-01 01:07:03,45190935,firmware/axe95v1-up-ver1-1-0-P120220623-rel49501_nosign_1660200028334.bin.rollback,initial crawl,,
@@ -43754,6 +43775,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-07-18 01:10:32,31261184,firmware/nvr2008h8mpv2_en_1_4_0_up_boot_25062367226-signed_1752801030153.bin,initial crawl,,
 2025-07-21 01:53:21,31261184,firmware/nvr2008h8mpv2_en_1_4_0_up_boot_25062367226-signed_1753062799171.bin,initial crawl,,
 2025-12-19 08:15:24,29098496,firmware/nvr2008h8mpv2_en_1_5_1_up_boot_25121173851-signed_1766132122212.bin,2025-12-20,,
+2025-12-21 03:39:41,29098496,firmware/nvr2008h8mpv2_en_1_5_1_up_boot_25121173851-signed_1766288379405.bin,2025-12-22,,
 2024-11-15 08:52:05,27722240,firmware/nvr2016h16mpv2_en_1_0_0_up_boot_24082262939-signed_1728893311335.bin.rollback,initial crawl,,
 2024-11-25 09:52:28,27722240,firmware/nvr2016h16mpv2_en_1_0_0_up_boot_24082262939-signed_1732528346703.bin,initial crawl,,
 2024-11-06 11:00:14,27722240,firmware/nvr2016h16mpv2_en_1_1_0_up_boot_24102540560-signed_1730890812532.bin,initial crawl,,
@@ -43769,6 +43791,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-07-18 01:09:45,31261184,firmware/nvr2016h16mpv2_en_1_4_0_up_boot_25062367226-signed_1752800983327.bin,initial crawl,,
 2025-07-22 01:37:14,31261184,firmware/nvr2016h16mpv2_en_1_4_0_up_boot_25062367226-signed_1753148232652.bin,initial crawl,,
 2025-12-19 08:12:33,29098496,firmware/nvr2016h16mpv2_en_1_5_1_up_boot_25121173851-signed_1766131951791.bin,2025-12-20,,
+2025-12-21 03:40:09,29098496,firmware/nvr2016h16mpv2_en_1_5_1_up_boot_25121173851-signed_1766288407220.bin,2025-12-22,,
 2023-09-27 01:09:19,18940416,firmware/nvr2016h16p_16mpv1_en_1_0_0_up_boot_230830_1695776957266.bin,initial crawl,,
 2023-12-07 01:38:27,18940416,firmware/nvr2016h16p_16mpv1_en_1_0_1_up_boot_231017_1701913105213.bin,initial crawl,,
 2023-12-11 06:07:58,18940416,firmware/nvr2016h16p_16mpv1_en_1_0_1_up_boot_231017_1702274876229.bin,initial crawl,,
@@ -45233,6 +45256,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-09-19 09:52:45,33034928,firmware/re655bev1-up-all-ver1-1-0-P1[20250815-rel34618]_sign_1758275563390.bin,initial crawl,,
 2025-09-26 06:24:39,33034928,firmware/re655bev1-up-all-ver1-1-0-P1[20250815-rel34618]_sign_1758867877463.bin,initial crawl,,
 2021-04-28 11:22:21,7639268,firmware/re655v2_eu-up-ver1-0-0-P120210302-rel81179_1619608939118.bin,initial crawl,,
+2025-12-22 01:57:06,22550850,firmware/re660xv1_eu-SP1-up-ver1-3-2-P1[20250816-rel71719]_2025-08-17_09.53.02_1766368624488.bin,2025-12-22,,
 2025-10-17 03:12:12,22550852,firmware/re665xv1_fr-SP1-up-ver1-3-10-P1[20250817-rel63070]_2025-08-17_19.02.10_1760670731031.bin,initial crawl,,
 2025-09-19 05:52:12,22550850,firmware/re665xv1_fr-SP1-up-ver1-3-2-P1[20250816-rel71719]_2025-08-17_09.56.06_1758261131061.bin,initial crawl,,
 2021-11-03 08:38:07,29235583,firmware/re700x-SP1-up-ver1-0-1-P120210912-rel48602_1635928685412.bin,initial crawl,,
@@ -45846,6 +45870,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-09-19 05:59:42,18278980,firmware/wr1502xv1-up-all-ver1-1-1-P1[20250808-rel68172]-2048_sign_2025-08-08_19.15.54_1758261580985.bin,initial crawl,,
 2025-09-19 06:00:14,18278980,firmware/wr1502xv1-up-all-ver1-1-1-P1[20250808-rel68172]-2048_sign_2025-08-08_19.15.54_1758261613112.bin,initial crawl,,
 2025-10-17 20:10:04,18542149,firmware/wr1502xv1-up-all-ver1-2-10-P1[20250813-rel68196]-2048_sign_2025-08-13_19.32.56_1760731802696.bin,initial crawl,,
+2025-12-22 02:03:10,18559621,firmware/wr1502xv1-up-all-ver1-2-11-P1[20251009-rel56489]-2048_sign_2025-10-09_15.48.01_1766368988845.bin,2025-12-22,,
 2024-03-07 02:07:43,17279556,firmware/wr1502xv1-up-us-ver1-0-0-P1[20240109-rel69467]-1024_nosign_2024-01-09_19.50.18_1709777261301.bin,initial crawl,,
 2024-05-08 01:38:00,17330756,firmware/wr1502xv1-up-us-ver1-0-5-P1[20240326-rel61099]-1024_nosign_2024-03-26_17.05.07_1715132278297.bin,initial crawl,,
 2025-09-03 13:36:59,30150921,firmware/wr1512xv1-up-us-ver1-0-0-P1[20250608-rel80216]_sign_2025-06-08_22.35.16_1756906617958.bin,initial crawl,,
@@ -45867,6 +45892,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-08 09:59:31,51768037,firmware/wr3602bev1_all-sp1-up-ver1-2-1-P1[20251031-rel61983]_2048_sign_2025-10-31_17.13.12_1765187969588.bin,2025-12-09,,
 2025-12-11 05:53:56,51768037,firmware/wr3602bev1_all-sp1-up-ver1-2-1-P1[20251031-rel61983]_2048_sign_2025-10-31_17.13.12_1765432434531.bin,2025-12-12,,
 2025-12-11 05:57:29,51768037,firmware/wr3602bev1_all-sp1-up-ver1-2-1-P1[20251031-rel61983]_2048_sign_2025-10-31_17.13.12_1765432647104.bin,2025-12-12,,
+2025-12-22 02:03:36,51768037,firmware/wr3602bev1_all-sp1-up-ver1-2-1-P1[20251031-rel61983]_2048_sign_2025-10-31_17.13.12_1766369014073.bin,2025-12-22,,
 2025-11-07 02:54:38,52297919,firmware/wr3602bev1_all-sp1-up-ver1-2-2-P1[20251017-rel30149]_2048_sign_2025-10-17_16.23.30_1762484076259.bin,initial crawl,,
 2025-05-13 07:55:15,50744769,firmware/wr3602bev1_us-sp1-up-ver1-0-0-P1[20250409-rel47865]_2048_sign_2025-04-09_21.22.17_1747122913623.bin,initial crawl,,
 2025-09-25 05:23:06,1401204,firmware/wr820v2-up-boot_2025-08-18_11.10.10_1758777784316.bin,initial crawl,,
