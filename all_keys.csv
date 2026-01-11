@@ -171,7 +171,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-01-08 01:24:34,75269764,app/KidShield-Desktop-1.1.11108-x64.zip.ipa,initial crawl,,http://web.archive.org/web/20260108024850/http://download.tplinkcloud.com/app/KidShield-Desktop-1.1.11108-x64.zip.ipa
 2025-11-04 09:04:20,75309946,app/KidShield-Desktop-1.1.12111-x64.zip.ipa,initial crawl,,http://web.archive.org/web/20260109024642/http://download.tplinkcloud.com/app/KidShield-Desktop-1.1.12111-x64.zip.ipa
 2024-02-22 01:47:46,104807494,app/KidShield-Desktop-win32-x64.zip_1708566464183.ipa,initial crawl,,https://web.archive.org/web/20260110024159/http://download.tplinkcloud.com/app/KidShield-Desktop-win32-x64.zip_1708566464183.ipa
-2024-10-11 06:04:22,45452352,app/KidShield_1.1.10112_dist_202408020303.ipa,initial crawl,,
+2024-10-11 06:04:22,45452352,app/KidShield_1.1.10112_dist_202408020303.ipa,initial crawl,,https://web.archive.org/web/20260111025450/http://download.tplinkcloud.com/app/KidShield_1.1.10112_dist_202408020303.ipa
 2025-11-04 09:04:10,45551630,app/KidShield_1.1.32153_dist_202508182311.ipa,initial crawl,,
 2024-02-22 01:51:34,104662106,app/KidShield_1708566691853.ipa,initial crawl,,
 2025-05-07 22:44:19,135383117,app/OmadaGuard_1.0.117_dist_202504011033.ipa,initial crawl,,
@@ -18230,6 +18230,7 @@ creation,size,fullpath,added,removed,wayback_url
 2026-01-09 06:12:58,7124756,firmware/Tapo_C200v5_en_1.3.3_Build_251119_Rel.34740n_up_boot-signed_1767939176718.bin,2026-01-10,,
 2026-01-09 08:07:38,7124756,firmware/Tapo_C200v5_en_1.3.3_Build_251119_Rel.34740n_up_boot-signed_1767946057247.bin,2026-01-10,,
 2026-01-09 08:23:44,7124756,firmware/Tapo_C200v5_en_1.3.3_Build_251119_Rel.34740n_up_boot-signed_1767947022415.bin,2026-01-10,,
+2026-01-10 03:22:18,7124756,firmware/Tapo_C200v5_en_1.3.3_Build_251119_Rel.34740n_up_boot-signed_1768015337126.bin,2026-01-11,,
 2024-03-05 08:22:25,7958504,firmware/Tapo_C202v2_en_1.0.0_Build_240201_Rel.67161n_up_boot-signed_1709626943380.bin,initial crawl,,
 2024-03-06 03:07:27,7958504,firmware/Tapo_C202v2_en_1.0.0_Build_240201_Rel.67161n_up_boot-signed_1709694445077.bin,initial crawl,,
 2024-06-05 02:55:02,7958468,firmware/Tapo_C202v2_en_1.0.1_Build_240326_Rel.54153n_up_boot-signed_1717556100703.bin,initial crawl,,
@@ -39330,6 +39331,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-29 06:40:14,16602244,firmware/assigned/Tapo_C560WSv1_en_1.1.5_Build_251229_Rel.43368n_up_boot-signed_1766990412905.bin,2025-12-30,,
 2025-12-30 10:00:39,16611840,firmware/assigned/Tapo_C560WSv1_en_1.1.5_Build_251230_Rel.54461n_up_boot-signed_1767088837537.bin,2025-12-31,,
 2026-01-06 04:01:18,16600464,firmware/assigned/Tapo_C560WSv1_en_1.1.5_Build_260105_Rel.77266n_up_boot-signed_1767672077080.bin,2026-01-07,,
+2026-01-10 10:40:14,16615024,firmware/assigned/Tapo_C560WSv1_en_1.1.5_Build_260110_Rel.61602n_up_boot-signed_1768041613204.bin,2026-01-11,,
 2025-07-11 09:40:20,28715448,firmware/assigned/Tapo_C566wbv1_en_1.0.1_Build_250709_Rel.34021n_up_boot-signed_1752226818406.bin,initial crawl,,
 2025-08-12 02:59:18,28846708,firmware/assigned/Tapo_C566wbv1_en_1.0.1_Build_250805_Rel.71865n_up_boot-signed_1754967556626.bin,initial crawl,,
 2025-08-13 06:40:25,28846936,firmware/assigned/Tapo_C566wbv1_en_1.0.1_Build_250812_Rel.55118n_up_boot-signed_1755067223180.bin,initial crawl,,
@@ -39795,13 +39797,17 @@ creation,size,fullpath,added,removed,wayback_url
 2025-11-28 03:20:03,54811948,firmware/assigned/Tapo_C665G_en_1.0.0_Build_251124_Rel.81784n_up_boot-signed_1764213662664.bin.rollback,2025-11-29,,
 2025-11-28 03:00:13,54811948,firmware/assigned/Tapo_C665G_en_1.0.0_Build_251124_Rel.81784n_up_boot-signed_1764298811469.bin,2025-11-29,,
 2025-12-30 06:40:33,54811948,firmware/assigned/Tapo_C665G_en_1.0.0_Build_251124_Rel.81784n_up_boot-signed_1767076831780.bin,2025-12-31,,
+2026-01-10 08:40:09,54806408,firmware/assigned/Tapo_C665G_en_1.0.0_Build_251212_Rel.59642n_up_boot-signed (1)_1768034407949.bin,2026-01-11,,
 2025-12-19 02:41:28,54806408,firmware/assigned/Tapo_C665G_en_1.0.0_Build_251212_Rel.59642n_up_boot-signed_1766112086427.bin,2025-12-20,,
 2025-12-24 06:00:12,54806408,firmware/assigned/Tapo_C665G_en_1.0.0_Build_251212_Rel.59642n_up_boot-signed_1766556010079.bin,2025-12-25,,
 2025-12-25 06:20:49,54806408,firmware/assigned/Tapo_C665G_en_1.0.0_Build_251212_Rel.59642n_up_boot-signed_1766643647055.bin,2025-12-26,2026-01-05,
 2026-01-04 06:40:03,54806408,firmware/assigned/Tapo_C665G_en_1.0.0_Build_251212_Rel.59642n_up_boot-signed_1766643647055.bin.rollback,2026-01-05,,
-2026-01-05 06:00:14,54867124,firmware/assigned/Tapo_C665G_en_1.0.0_Build_260104_Rel.65672n_up_boot-signed_1767592812211.bin,2026-01-06,,
+2026-01-05 06:00:14,54867124,firmware/assigned/Tapo_C665G_en_1.0.0_Build_260104_Rel.65672n_up_boot-signed_1767592812211.bin,2026-01-06,2026-01-11,
+2026-01-10 08:20:03,54867124,firmware/assigned/Tapo_C665G_en_1.0.0_Build_260104_Rel.65672n_up_boot-signed_1767592812211.bin.rollback,2026-01-11,,
 2026-01-06 07:20:31,54867124,firmware/assigned/Tapo_C665G_en_1.0.0_Build_260104_Rel.65672n_up_boot-signed_1767684029974.bin,2026-01-07,,
 2026-01-08 06:40:10,54867124,firmware/assigned/Tapo_C665G_en_1.0.0_Build_260104_Rel.65672n_up_boot-signed_1767854409007.bin,2026-01-09,,
+2026-01-10 09:40:03,54867124,firmware/assigned/Tapo_C665G_en_1.0.0_Build_260104_Rel.65672n_up_boot-signed_1768036809690.bin.rollback,2026-01-11,,
+2026-01-10 10:20:03,54867124,firmware/assigned/Tapo_C665G_en_1.0.0_Build_260104_Rel.65672n_up_boot-signed_1768039310132.bin.rollback,2026-01-11,,
 2026-01-05 01:40:03,54866788,firmware/assigned/Tapo_C665G_en_1.0.1_Build_251231_Rel.54401n_up_boot-signed_1767508806335.bin.rollback,2026-01-05,,
 2026-01-05 04:20:44,54866788,firmware/assigned/Tapo_C665G_en_1.0.1_Build_251231_Rel.54401n_up_boot-signed_1767586842345.bin,2026-01-06,,
 2026-01-05 07:20:03,54866788,firmware/assigned/Tapo_C665G_en_1.0.1_Build_251231_Rel.54401n_up_boot-signed_1767595240921.bin.rollback,2026-01-06,,
