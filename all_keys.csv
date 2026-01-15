@@ -177,7 +177,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-05-07 22:44:19,135383117,app/OmadaGuard_1.0.117_dist_202504011033.ipa,initial crawl,,http://web.archive.org/web/20260113024938/http://download.tplinkcloud.com/app/OmadaGuard_1.0.117_dist_202504011033.ipa
 2025-07-11 09:04:21,174352403,app/OmadaGuard_1.1.184_dist_202506260529.ipa,initial crawl,,https://web.archive.org/web/20260114035608/http://download.tplinkcloud.com/app/OmadaGuard_1.1.184_dist_202506260529.ipa
 2018-09-03 02:23:44,6251139,app/Omada_2.0.5_release_20180827085014_1535941422975.apk,initial crawl,,http://web.archive.org/web/20240201192416/http://download.tplinkcloud.com/app/Omada_2.0.5_release_20180827085014_1535941422975.apk
-2018-09-12 01:03:46,6251291,app/Omada_2.0.6_release_20180831165655_1536714225718.apk,initial crawl,,
+2018-09-12 01:03:46,6251291,app/Omada_2.0.6_release_20180831165655_1536714225718.apk,initial crawl,,http://web.archive.org/web/20240130182004/http://download.tplinkcloud.com/app/Omada_2.0.6_release_20180831165655_1536714225718.apk
 2018-10-17 08:26:28,9829467,app/Omada_2.0.9_dist_201807312027_1539764787427.ipa,initial crawl,,http://web.archive.org/web/20240120020045/http://download.tplinkcloud.com/app/Omada_2.0.9_dist_201807312027_1539764787427.ipa
 2019-02-21 09:11:59,13556165,app/Omada_2.1.4(14)_dist_201812291150_1550740317739.ipa,initial crawl,,http://web.archive.org/web/20240128101612/http://download.tplinkcloud.com/app/Omada_2.1.4%2814%29_dist_201812291150_1550740317739.ipa
 2019-02-21 09:11:45,6664839,app/Omada_2.1.4_release_prd_normal_dist_20190114090004_1550740304220.apk,initial crawl,,http://web.archive.org/web/20240126180946/http://download.tplinkcloud.com/app/Omada_2.1.4_release_prd_normal_dist_20190114090004_1550740304220.apk
@@ -188,19 +188,19 @@ creation,size,fullpath,added,removed,wayback_url
 2019-10-17 01:30:29,13427500,app/Omada_2.1.9(19)_dist_201907091348_1571275828292.ipa,initial crawl,,http://web.archive.org/web/20240127014346/http://download.tplinkcloud.com/app/Omada_2.1.9%2819%29_dist_201907091348_1571275828292.ipa
 2020-09-04 01:24:28,11192048,app/Omada_3.0.14_release_prd_normal_dist_20200811154123_1599182666167.apk,initial crawl,,http://web.archive.org/web/20240201203357/http://download.tplinkcloud.com/app/Omada_3.0.14_release_prd_normal_dist_20200811154123_1599182666167.apk
 2020-11-26 02:04:11,11196008,app/Omada_3.0.15_release_prd_normal_dist_20201117121119_1606356249612.apk,initial crawl,,http://web.archive.org/web/20240121111521/http://download.tplinkcloud.com/app/Omada_3.0.15_release_prd_normal_dist_20201117121119_1606356249612.apk
-2020-11-25 01:24:19,25715897,app/Omada_3.0.33(57)_dist_202011052021_1606267457505.ipa,initial crawl,,
+2020-11-25 01:24:19,25715897,app/Omada_3.0.33(57)_dist_202011052021_1606267457505.ipa,initial crawl,,http://web.archive.org/web/20240110164917/http://download.tplinkcloud.com/app/Omada_3.0.33%2857%29_dist_202011052021_1606267457505.ipa
 2021-11-20 12:25:10,31472770,app/Omada_4.0.4646_dist_202109101402_1637411108073.ipa,initial crawl,,http://web.archive.org/web/20240202075132/http://download.tplinkcloud.com/app/Omada_4.0.4646_dist_202109101402_1637411108073.ipa
-2021-11-20 12:25:42,13057238,app/Omada_4.0.5_release_prd_normal_dist_20210930174642_1637411140362.apk,initial crawl,,
+2021-11-20 12:25:42,13057238,app/Omada_4.0.5_release_prd_normal_dist_20210930174642_1637411140362.apk,initial crawl,,http://web.archive.org/web/20240110163946/http://download.tplinkcloud.com/app/Omada_4.0.5_release_prd_normal_dist_20210930174642_1637411140362.apk
 2021-11-20 12:04:31,13057350,app/Omada_4.0.7_release_prd_normal_dist_20211027171504_1637409869048.apk,initial crawl,,http://web.archive.org/web/20240123021923/http://download.tplinkcloud.com/app/Omada_4.0.7_release_prd_normal_dist_20211027171504_1637409869048.apk
 2021-11-20 12:05:02,13057182,app/Omada_4.0.8_release_prd_normal_dist_20211104104900_1637409900928.apk,initial crawl,,http://web.archive.org/web/20240119222957/http://download.tplinkcloud.com/app/Omada_4.0.8_release_prd_normal_dist_20211104104900_1637409900928.apk
 2021-12-02 04:08:27,108316575,app/Omada_4.1.2424_dist_202111191033_1638418104795.ipa,initial crawl,,http://web.archive.org/web/20240126203416/http://download.tplinkcloud.com/app/Omada_4.1.2424_dist_202111191033_1638418104795.ipa
-2021-12-02 04:04:31,13201437,app/Omada_4.1.4_release_prd_normal_dist_20211119170413_1638417869737.apk,initial crawl,,
-2023-08-01 08:29:22,149379757,app/Omada_4.10.14174_dist_202307181604_1690878560039.ipa,initial crawl,,
-2023-08-01 08:31:19,52052352,app/Omada_4.10.6_release_prd_normal_dist_20230718200522_1690878677204.apk,initial crawl,,
+2021-12-02 04:04:31,13201437,app/Omada_4.1.4_release_prd_normal_dist_20211119170413_1638417869737.apk,initial crawl,,http://web.archive.org/web/20240119231655/http://download.tplinkcloud.com/app/Omada_4.1.4_release_prd_normal_dist_20211119170413_1638417869737.apk
+2023-08-01 08:29:22,149379757,app/Omada_4.10.14174_dist_202307181604_1690878560039.ipa,initial crawl,,http://web.archive.org/web/20240201201556/http://download.tplinkcloud.com/app/Omada_4.10.14174_dist_202307181604_1690878560039.ipa
+2023-08-01 08:31:19,52052352,app/Omada_4.10.6_release_prd_normal_dist_20230718200522_1690878677204.apk,initial crawl,,http://web.archive.org/web/20240202075419/http://download.tplinkcloud.com/app/Omada_4.10.6_release_prd_normal_dist_20230718200522_1690878677204.apk
 2023-09-25 08:29:30,152364387,app/Omada_4.11.22202_dist_202308311236_1695630567605.ipa,initial crawl,,http://web.archive.org/web/20240131081034/http://download.tplinkcloud.com/app/Omada_4.11.22202_dist_202308311236_1695630567605.ipa
 2023-09-25 08:31:32,54282568,app/Omada_4.11.9_release_prd_normal_dist_20230829201531_1695630689595.apk,initial crawl,,http://web.archive.org/web/20240109014757/http://download.tplinkcloud.com/app/Omada_4.11.9_release_prd_normal_dist_20230829201531_1695630689595.apk
 2023-10-31 02:49:34,154707113,app/Omada_4.12.16218_dist_202310111934_1698720571271.ipa,initial crawl,,
-2023-10-31 02:51:38,55875969,app/Omada_4.12.8_release_prd_normal_dist_20231011173226_1698720696434.apk,initial crawl,,
+2023-10-31 02:51:38,55875969,app/Omada_4.12.8_release_prd_normal_dist_20231011173226_1698720696434.apk,initial crawl,,https://web.archive.org/web/20260115034522/http://download.tplinkcloud.com/app/Omada_4.12.8_release_prd_normal_dist_20231011173226_1698720696434.apk
 2023-11-27 01:49:50,162278554,app/Omada_4.13.20230_dist_202311061651_1701049787669.ipa,initial crawl,,
 2023-11-27 01:52:04,60384407,app/Omada_4.13.9_release_prd_normal_dist_20231106193632_1701049921941.apk,initial crawl,,
 2023-12-21 03:29:19,163267763,app/Omada_4.14.10240_dist_202311281509_1703129356245.ipa,initial crawl,,
@@ -3179,6 +3179,10 @@ creation,size,fullpath,added,removed,wayback_url
 2026-01-09 09:24:43,43261008,firmware/BE_MULTI_SP1_V2-up-ver1-1-0-P1[20260106-rel34457]_2026-01-06_17.59.58_1767950681566.bin,2026-01-10,,
 2026-01-09 09:25:26,43261008,firmware/BE_MULTI_SP1_V2-up-ver1-1-0-P1[20260106-rel34457]_2026-01-06_17.59.58_1767950724752.bin,2026-01-10,,
 2026-01-09 09:26:26,43261008,firmware/BE_MULTI_SP1_V2-up-ver1-1-0-P1[20260106-rel34457]_2026-01-06_17.59.58_1767950784567.bin,2026-01-10,,
+2026-01-15 01:52:39,43261008,firmware/BE_MULTI_SP1_V2-up-ver1-1-0-P1[20260106-rel34457]_2026-01-06_17.59.58_1768441957311.bin,2026-01-15,,
+2026-01-15 01:53:27,43261008,firmware/BE_MULTI_SP1_V2-up-ver1-1-0-P1[20260106-rel34457]_2026-01-06_17.59.58_1768442005307.bin,2026-01-15,,
+2026-01-15 01:53:42,43261008,firmware/BE_MULTI_SP1_V2-up-ver1-1-0-P1[20260106-rel34457]_2026-01-06_17.59.58_1768442020325.bin,2026-01-15,,
+2026-01-15 02:07:27,43261008,firmware/BE_MULTI_SP1_V2-up-ver1-1-0-P1[20260106-rel34457]_2026-01-06_17.59.58_1768442845467.bin,2026-01-15,,
 2026-01-11 07:39:46,43261008,firmware/BE_MULTI_SP1_V2-up-ver1-1-1-P1[20260108-rel22634]_2026-01-08_15.03.16_1768117185093.bin,2026-01-12,,
 2026-01-11 07:40:18,43261008,firmware/BE_MULTI_SP1_V2-up-ver1-1-1-P1[20260108-rel22634]_2026-01-08_15.03.16_1768117217095.bin,2026-01-12,,
 2026-01-11 07:53:23,43261008,firmware/BE_MULTI_SP1_V2-up-ver1-1-1-P1[20260108-rel22634]_2026-01-08_15.03.16_1768118001334.bin,2026-01-12,,
@@ -6204,6 +6208,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-08-18 02:57:01,52941496,firmware/ER706WP-4G_un_1.1.1_20250809-rel69910_common_v1_up_2025-08-09_19.26.31_1755485820007.bin,initial crawl,,
 2025-08-18 02:58:07,52941496,firmware/ER706WP-4G_un_1.1.1_20250809-rel69910_common_v1_up_2025-08-09_19.26.31_1755485885315.bin,initial crawl,,
 2025-11-14 06:43:13,52941500,firmware/ER706WP-4G_un_1.1.4_20251104-rel80234_common_v1_up_2025-11-04_22.18.38_1763102591130.bin,initial crawl,,
+2026-01-14 09:59:29,52941500,firmware/ER706WP-4G_un_1.1.7_20251204-rel79746_common_v1_up_2025-12-04_22.11.08_1768384767148.bin,2026-01-15,,
 2025-04-24 02:27:52,31642422,firmware/ER706WP-4Gv1_1.0.0_20241220-rel39548_common_v1_up_2024-12-20_11.00.19_1745461670977.bin,initial crawl,,
 2025-05-13 11:24:17,31642647,firmware/ER706WP-4Gv1_1.0.1_20250117-rel70075_common_v1_up_2025-01-17_19.28.58_1747135455329.bin,initial crawl,,
 2025-11-14 06:38:34,38588437,firmware/ER706W_Festa_FR365_un_1.2.3_20251104-rel56907_common_up_2025-11-10_11.22.04_1763102312430.bin,initial crawl,,
@@ -7471,6 +7476,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-31 09:07:28,35521177,firmware/HX510v1_0.14.0_3.0.0_UP_BOOT_2025-08-25_11.05.08_1767172046394.bin,2026-01-01,,
 2026-01-05 08:27:31,35521177,firmware/HX510v1_0.14.0_3.0.0_UP_BOOT_2025-08-25_11.05.08_1767601649312.bin,2026-01-06,,
 2026-01-05 08:52:49,35521177,firmware/HX510v1_0.14.0_3.0.0_UP_BOOT_2025-08-25_11.05.08_1767603167702.bin,2026-01-06,,
+2026-01-14 13:52:38,35521177,firmware/HX510v1_0.14.0_3.0.0_UP_BOOT_2025-08-25_11.05.08_1768398756525.bin,2026-01-15,,
 2022-09-16 12:25:29,28574368,firmware/HX510v1_0.2.0_3.0.0_UP_BOOT_2022-05-30_14.50.0_1663331126829.bin,initial crawl,,http://web.archive.org/web/20240201071656/http://download.tplinkcloud.com/firmware/HX510v1_0.2.0_3.0.0_UP_BOOT_2022-05-30_14.50.0_1663331126829.bin
 2022-09-16 12:26:38,28574368,firmware/HX510v1_0.2.0_3.0.0_UP_BOOT_2022-05-30_14.50.0_1663331196836.bin,initial crawl,,http://web.archive.org/web/20240106120044/http://download.tplinkcloud.com/firmware/HX510v1_0.2.0_3.0.0_UP_BOOT_2022-05-30_14.50.0_1663331196836.bin
 2022-09-16 12:23:04,28312223,firmware/HX510v1_0.3.0_3.0.0_UP_BOOT_2022-06-30_17.47.3_1663330982597.bin,initial crawl,,http://web.archive.org/web/20240119231807/http://download.tplinkcloud.com/firmware/HX510v1_0.3.0_3.0.0_UP_BOOT_2022-06-30_17.47.3_1663330982597.bin
@@ -8646,6 +8652,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-03 21:38:22,7312383,firmware/KD110v2-up-ver2-3-28-P1[20250513-rel63231]-signed_1764797900445.bin,2025-12-04,,
 2025-12-03 21:39:43,7312383,firmware/KD110v2-up-ver2-3-28-P1[20250513-rel63231]-signed_1764797982193.bin,2025-12-04,,
 2025-12-30 02:24:15,7312383,firmware/KD110v2-up-ver2-3-28-P1[20250513-rel63231]-signed_1767061453623.bin,2025-12-30,,
+2026-01-14 07:38:12,7312383,firmware/KD110v2-up-ver2-3-28-P1[20250513-rel63231]-signed_1768376291181.bin,2026-01-15,,
 2022-11-11 09:07:51,7177207,firmware/KD110v3-up-ver2-3-15-P120220924-rel23658-signe_1668157669600.bin,initial crawl,,http://web.archive.org/web/20240131075517/http://download.tplinkcloud.com/firmware/KD110v3-up-ver2-3-15-P120220924-rel23658-signe_1668157669600.bin
 2022-10-27 08:52:21,7173111,firmware/KD110v4-up-ver2-3-14-P120220818-rel52708-signe_1666860739395.bin,initial crawl,,http://web.archive.org/web/20240130080011/http://download.tplinkcloud.com/firmware/KD110v4-up-ver2-3-14-P120220818-rel52708-signe_1666860739395.bin
 2022-11-11 09:07:19,7177207,firmware/KD110v4-up-ver2-3-15-P120220924-rel23658-signe_1668157637758.bin,initial crawl,,http://web.archive.org/web/20240121104054/http://download.tplinkcloud.com/firmware/KD110v4-up-ver2-3-15-P120220924-rel23658-signe_1668157637758.bin
@@ -12250,6 +12257,10 @@ creation,size,fullpath,added,removed,wayback_url
 2023-11-13 04:22:58,7741602,firmware/MD5_157a64e1df3a677528645bd7b7e81b6f_RV30C_1.1.2_Build_231020_Rel.144422_1699849376729.scv,initial crawl,,
 2023-11-13 04:23:35,7741602,firmware/MD5_157a64e1df3a677528645bd7b7e81b6f_RV30C_1.1.2_Build_231020_Rel.144422_1699849413094.scv,initial crawl,,
 2023-11-13 04:24:11,7741602,firmware/MD5_157a64e1df3a677528645bd7b7e81b6f_RV30C_1.1.2_Build_231020_Rel.144422_1699849449512.scv,initial crawl,,
+2026-01-14 08:52:35,8262818,firmware/MD5_181e13d7fba9eb3abf8f6fb8ba8921e4_RV50_Pro_1.2.2_Build_260112_Rel.132934_1768380753791.scv,2026-01-15,,
+2026-01-14 08:52:53,8262818,firmware/MD5_181e13d7fba9eb3abf8f6fb8ba8921e4_RV50_Pro_1.2.2_Build_260112_Rel.132934_1768380771355.scv,2026-01-15,,
+2026-01-14 10:07:16,8262818,firmware/MD5_181e13d7fba9eb3abf8f6fb8ba8921e4_RV50_Pro_1.2.2_Build_260112_Rel.132934_1768385234507.scv,2026-01-15,,
+2026-01-14 10:07:32,8262818,firmware/MD5_181e13d7fba9eb3abf8f6fb8ba8921e4_RV50_Pro_1.2.2_Build_260112_Rel.132934_1768385250462.scv,2026-01-15,,
 2023-03-10 00:52:18,8266914,firmware/MD5_1da5590c11616068ed0d423181c852b5_RV30_1.1.1_Build_230306_Rel.042044_1678409537006.scv,initial crawl,,http://web.archive.org/web/20240126183221/http://download.tplinkcloud.com/firmware/MD5_1da5590c11616068ed0d423181c852b5_RV30_1.1.1_Build_230306_Rel.042044_1678409537006.scv
 2023-05-04 04:07:55,7671970,firmware/MD5_1f3600ef9e12c269fcecc9897a9b2e1e_RV30_PLUS_1.1.7_Build_230424_Rel.015806_1683173273240.scv,initial crawl,,http://web.archive.org/web/20240130192322/http://download.tplinkcloud.com/firmware/MD5_1f3600ef9e12c269fcecc9897a9b2e1e_RV30_PLUS_1.1.7_Build_230424_Rel.015806_1683173273240.scv
 2023-05-04 06:12:19,7671970,firmware/MD5_1f3600ef9e12c269fcecc9897a9b2e1e_RV30_PLUS_1.1.7_Build_230424_Rel.015806_1683180737095.scv,initial crawl,,http://web.archive.org/web/20240119232332/http://download.tplinkcloud.com/firmware/MD5_1f3600ef9e12c269fcecc9897a9b2e1e_RV30_PLUS_1.1.7_Build_230424_Rel.015806_1683180737095.scv
@@ -16247,6 +16258,7 @@ creation,size,fullpath,added,removed,wayback_url
 2026-01-06 01:38:15,19555,firmware/T300(EU)_1.8.0_Build_251107_Rel.194743_2025-11-07_19.48.13_1767663493453.bin,2026-01-06,,
 2026-01-06 02:00:01,19555,firmware/T300(EU)_1.8.0_Build_251107_Rel.194743_2025-11-07_19.48.13_1767664800252.bin,2026-01-06,,
 2026-01-14 01:37:14,19555,firmware/T300(EU)_1.8.0_Build_251107_Rel.194743_2025-11-07_19.48.13_1768354632690.bin,2026-01-14,,
+2026-01-14 11:22:07,19555,firmware/T300(EU)_1.8.0_Build_251107_Rel.194743_2025-11-07_19.48.13_1768389726200.bin,2026-01-15,,
 2023-04-20 09:52:48,18299,firmware/T300(US)_1.5.0_Build_230210_Rel.155536_2023-02-10_15.56.03_1681984366208.bin,initial crawl,,http://web.archive.org/web/20240130101712/http://download.tplinkcloud.com/firmware/T300%28US%29_1.5.0_Build_230210_Rel.155536_2023-02-10_15.56.03_1681984366208.bin
 2023-10-13 01:37:53,18627,firmware/T300(US)_1.7.0_Build_230628_Rel.194828_2023-06-28_19.48.57_1697161071890.bin,initial crawl,,http://web.archive.org/web/20240130104307/http://download.tplinkcloud.com/firmware/T300%28US%29_1.7.0_Build_230628_Rel.194828_2023-06-28_19.48.57_1697161071890.bin
 2023-12-01 07:22:23,18627,firmware/T300(US)_1.7.0_Build_230628_Rel.194828_2023-06-28_19.48.57_1701415341249.bin,initial crawl,,
@@ -19406,6 +19418,7 @@ creation,size,fullpath,added,removed,wayback_url
 2026-01-13 01:43:15,12593004,firmware/Tapo_C245Dv1_en_1.0.3_Build_251212_Rel.38761n_up_boot-signed_1768268593394.bin,2026-01-13,,
 2026-01-13 02:52:53,12593004,firmware/Tapo_C245Dv1_en_1.0.3_Build_251212_Rel.38761n_up_boot-signed_1768272771798.bin,2026-01-14,,
 2026-01-13 02:53:16,12593004,firmware/Tapo_C245Dv1_en_1.0.3_Build_251212_Rel.38761n_up_boot-signed_1768272794655.bin,2026-01-14,,
+2026-01-14 09:22:32,12614120,firmware/Tapo_C245Dv1_en_1.0.4_Build_260107_Rel.58370n_up_boot-signed_1768382550397.bin,2026-01-15,,
 2025-04-22 03:37:40,10286416,firmware/Tapo_C246Dv1_en_1.0.2_Build_250418_Rel.58480n_up_boot-signed_1745293058508.bin,initial crawl,,
 2025-04-22 03:37:56,10286416,firmware/Tapo_C246Dv1_en_1.0.2_Build_250418_Rel.58480n_up_boot-signed_1745293074484.bin,initial crawl,,
 2025-05-22 06:23:21,10286416,firmware/Tapo_C246Dv1_en_1.0.2_Build_250418_Rel.58480n_up_boot-signed_1747894999577.bin,initial crawl,,
@@ -20594,6 +20607,8 @@ creation,size,fullpath,added,removed,wayback_url
 2025-10-27 02:39:16,17302016,firmware/Tapo_C425v2_en_1.2.0_Build_250914_Rel.41594n_up_boot-signed_1761532755184.bin,initial crawl,,
 2026-01-09 06:09:38,17367552,firmware/Tapo_C425v2_en_1.2.2_Build_251205_Rel.50896n_up_boot-signed_1767938976376.bin,2026-01-10,,
 2026-01-09 06:13:27,17367552,firmware/Tapo_C425v2_en_1.2.2_Build_251205_Rel.50896n_up_boot-signed_1767939205775.bin,2026-01-10,,
+2026-01-14 06:07:28,17367552,firmware/Tapo_C425v2_en_1.2.2_Build_251205_Rel.50896n_up_boot-signed_1768370846641.bin,2026-01-15,,
+2026-01-14 06:26:15,17367552,firmware/Tapo_C425v2_en_1.2.2_Build_251205_Rel.50896n_up_boot-signed_1768371974178.bin,2026-01-15,,
 2025-01-08 05:39:18,12190208,firmware/Tapo_C460v1_en_1.1.3_Build_241226_Rel.42635n_up_boot2-signed_1736314756593.bin,initial crawl,,
 2025-01-08 05:43:40,12190208,firmware/Tapo_C460v1_en_1.1.3_Build_241226_Rel.42635n_up_boot2-signed_1736315018494.bin,initial crawl,,
 2025-01-09 03:22:21,12190208,firmware/Tapo_C460v1_en_1.1.3_Build_241226_Rel.42635n_up_boot2-signed_1736392939976.bin,initial crawl,,
@@ -22146,6 +22161,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-06-18 01:37:49,229910728,firmware/VIGI PC Client_setup_x64_1.9.63_1750210666163.exe,initial crawl,,
 2025-10-18 07:39:43,153030856,firmware/VIGI PC Client_setup_x64_2.0.68_1760773180811.exe,initial crawl,,
 2025-11-07 01:12:51,152961224,firmware/VIGI PC Client_setup_x64_2.0.70_1762477968743.exe,initial crawl,,
+2026-01-14 09:37:22,155390152,firmware/VIGI PC Client_setup_x64_2.1.25_1768383440164.exe,2026-01-15,,
 2024-05-23 09:01:00,556606640,firmware/VIGI VMS_1.5.36_x64_1716454854638.exe,initial crawl,,
 2024-05-24 07:34:28,556606640,firmware/VIGI VMS_1.5.36_x64_1716536062189.exe,initial crawl,,
 2024-05-24 14:15:37,556606640,firmware/VIGI VMS_1.5.36_x64_1716560130851.exe,initial crawl,,
@@ -30435,6 +30451,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-04-08 10:38:30,41163621,firmware/assigned/BE65_BE63_SP2_V2-up-ver1-0-8-P1[20240723-rel26458]_2024-07-23_16.18.22 (1)_1744108708961.bin,initial crawl,,
 2025-07-16 08:40:06,41163621,firmware/assigned/BE65_BE63_SP2_V2-up-ver1-0-8-P1[20240723-rel26458]_2024-07-23_16.18.22 (1)_1752655204699.bin,initial crawl,,
 2025-07-16 09:40:27,41163621,firmware/assigned/BE65_BE63_SP2_V2-up-ver1-0-8-P1[20240723-rel26458]_2024-07-23_16.18.22 (1)_1752658825104.bin,initial crawl,,
+2026-01-14 07:40:32,41687909,firmware/assigned/BE65_BE63_SP2_V2-up-ver1-1-0-P1[20241230-rel33303]_2024-12-30_17.16.25_1768376430283.bin,2026-01-15,,
 2025-03-24 02:00:25,41425765,firmware/assigned/BE65_BE63_SP2_V2-up-ver1-1-0-P1[20250117-rel39590]_2025-01-17_19.18.00_1742781623555.bin,initial crawl,,
 2025-02-05 09:21:21,41687908,firmware/assigned/BE65_BE63_SP2_V2-up-ver1-1-0-P1[20250120-rel5148]_2025-01-20_09.27.12_1738747279609.bin,initial crawl,,
 2025-03-13 04:00:17,41687909,firmware/assigned/BE65_BE63_SP2_V2-up-ver1-1-0-P1[20250311-rel25842]_2025-03-11_15.11.29_1741838415870.bin,initial crawl,,
@@ -31189,6 +31206,7 @@ creation,size,fullpath,added,removed,wayback_url
 2026-01-07 04:00:02,2207107,firmware/assigned/DL130_US_1.0.9_Build_260107_Rel.114128_2026-01-07_11.43.54_1767758400777.bin,2026-01-08,,
 2026-01-06 11:40:02,2208091,firmware/assigned/DL130_US_eu_1.0.11_Build_260106_Rel.185856_2026-01-06_19.01.14_1767699600850.bin,2026-01-07,,
 2026-01-08 10:00:02,2208547,firmware/assigned/DL130_US_eu_1.0.11_Build_260108_Rel.171707_2026-01-08_17.33.17_1767866400827.bin,2026-01-09,,
+2026-01-14 11:00:02,2209331,firmware/assigned/DL130_US_eu_1.0.11_Build_260114_Rel.172055_2026-01-14_17.22.55_1768388400894.bin,2026-01-15,,
 2025-08-20 08:00:02,1985420,firmware/assigned/DL210_EU_1.0.0_Build_250820_Rel.153159_2025-08-20_15.36.31_1755676800903.bin,initial crawl,,
 2025-08-22 05:20:02,1988780,firmware/assigned/DL210_EU_1.0.0_Build_250822_Rel.120602_2025-08-22_12.09.32_1755840000813.bin,initial crawl,,
 2025-08-22 07:20:02,1988812,firmware/assigned/DL210_EU_1.0.0_Build_250822_Rel.151001_2025-08-22_15.12.00_1755847200784.bin,initial crawl,,
@@ -31659,6 +31677,9 @@ creation,size,fullpath,added,removed,wayback_url
 2026-01-12 13:20:02,2081620,firmware/assigned/H100_MT_1.7.7_Build_260112_Rel.211115_2026-01-12_21.13.20_1768224000744.bin,2026-01-13,,
 2026-01-13 09:00:02,2081620,firmware/assigned/H100_MT_1.7.7_Build_260112_Rel.211115_2026-01-12_21.13.20_1768294800831.bin,2026-01-14,,
 2026-01-13 10:40:02,2081620,firmware/assigned/H100_MT_1.7.7_Build_260113_Rel.182052_2026-01-13_18.21.36_1768300800796.bin,2026-01-14,,
+2026-01-14 14:40:02,2081620,firmware/assigned/H100_MT_1.7.7_Build_260114_Rel.215617_2026-01-14_21.56.58_1768401600748.bin,2026-01-15,,
+2026-01-14 14:40:05,2081620,firmware/assigned/H100_MT_1.7.7_Build_260114_Rel.215617_2026-01-14_21.56.58_1768401603311.bin,2026-01-15,,
+2026-01-14 14:40:09,2081620,firmware/assigned/H100_MT_1.7.7_Build_260114_Rel.215617_2026-01-14_21.56.58_1768401608117.bin,2026-01-15,,
 2025-12-18 11:00:17,1968276,firmware/assigned/H100_MT_1.9.0_Build_251218_Rel.183000_2025-12-18_18.31.13_1766055616045.bin,2025-12-19,,
 2025-12-18 11:40:11,1968276,firmware/assigned/H100_MT_1.9.0_Build_251218_Rel.183000_2025-12-18_18.31.13_1766058009903.bin,2025-12-19,,
 2023-01-04 09:40:05,1093584,firmware/assigned/H100_UK_1.2.3_Build_221214_Rel.112121_2022-12-14_11.23.09_1671186003103.bin.rollback,initial crawl,,
@@ -31873,6 +31894,9 @@ creation,size,fullpath,added,removed,wayback_url
 2026-01-07 07:00:02,2026260,firmware/assigned/H110_JP_1.4.8_Build_260107_Rel.113816_2026-01-07_14.37.24_1767769200808.bin,2026-01-08,,
 2026-01-07 10:40:05,2026324,firmware/assigned/H110_JP_1.4.9_Build_260107_Rel.182458_2026-01-07_18.29.05_1767782403509.bin,2026-01-08,,
 2026-01-07 10:40:10,2026324,firmware/assigned/H110_JP_1.4.9_Build_260107_Rel.182458_2026-01-07_18.29.05_1767782408421.bin,2026-01-08,,
+2026-01-14 14:40:07,2026324,firmware/assigned/H110_JP_1.4.9_Build_260114_Rel.221355_2026-01-14_22.16.06_1768401605468.bin,2026-01-15,,
+2026-01-14 14:40:12,2026324,firmware/assigned/H110_JP_1.4.9_Build_260114_Rel.221355_2026-01-14_22.16.06_1768401610943.bin,2026-01-15,,
+2026-01-15 02:20:02,2026324,firmware/assigned/H110_JP_1.4.9_Build_260115_Rel.101030_2026-01-15_10.11.25_1768443600778.bin,2026-01-15,,
 2025-12-19 09:20:02,1993364,firmware/assigned/H110_JP_1.7.7_Build_251219_Rel.163422_sign_1766136000916.bin,2025-12-20,,
 2025-12-22 02:00:06,1993364,firmware/assigned/H110_JP_1.7.8_Build_251222_Rel.092608_2025-12-22_09.38.04_1766368804370.bin,2025-12-22,,
 2025-12-22 03:00:03,1993364,firmware/assigned/H110_JP_1.8.6_Build_251222_Rel.104606_2025-12-22_10.48.14_1766372401410.bin,2025-12-23,,
@@ -32263,6 +32287,7 @@ creation,size,fullpath,added,removed,wayback_url
 2026-01-08 10:20:02,6073261,firmware/assigned/H200-up-ver1-6-0-P1[20260108-rel56824]-signed_1767867601206.bin,2026-01-09,,
 2026-01-09 02:20:05,6073261,firmware/assigned/H200-up-ver1-6-0-P1[20260109-rel34955]-signed_1767925203645.bin,2026-01-09,,
 2026-01-09 02:40:19,6073261,firmware/assigned/H200-up-ver1-6-0-P1[20260109-rel34955]-signed_1767926418185.bin,2026-01-09,,
+2026-01-14 11:40:03,6073261,firmware/assigned/H200-up-ver1-6-0-P1[20260114-rel57785]-signed_1768390801302.bin,2026-01-15,,
 2025-12-31 11:40:06,6085549,firmware/assigned/H200-up-ver1-6-1-P1[20251210-rel35240]-signed_1767181205244.bin,2026-01-01,,
 2025-12-10 07:00:05,6085549,firmware/assigned/H200-up-ver1-6-1-P1[20251210-rel49984]-signed_1765350004145.bin,2025-12-11,,
 2026-01-04 06:20:03,6085548,firmware/assigned/H200-up-ver1-6-1-P1[20251212-rel1316]-signed_1767507601680.bin,2026-01-05,,
@@ -32416,6 +32441,7 @@ creation,size,fullpath,added,removed,wayback_url
 2026-01-06 08:00:21,47445892,firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20260106-rel44545]-signed_1767686420000.bin,2026-01-07,,
 2026-01-08 01:21:17,47444540,firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20260107-rel74385]-signed_1767835276087.bin,2026-01-08,,
 2026-01-13 03:40:16,47441736,firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20260112-rel72958]-signed_1768275614140.bin,2026-01-14,,
+2026-01-14 12:01:43,47441404,firmware/assigned/H500-DEBUG-up-ver1-3-99-P1[20260113-rel69303]-signed_1768392101817.bin,2026-01-15,,
 2024-01-05 10:20:50,21865264,firmware/assigned/H500-up-ver1-0-0-P1[20231225-rel32175]-signed_1704450047915.bin,initial crawl,,
 2024-04-08 07:00:51,22798272,firmware/assigned/H500-up-ver1-0-3-P1[20240408-rel19958]-signed_1712559649105.bin,initial crawl,,
 2024-08-02 05:41:28,38547319,firmware/assigned/H500-up-ver1-0-4-P1[20240715-rel35489]-signed_1722577286766.bin,initial crawl,,
@@ -32512,8 +32538,10 @@ creation,size,fullpath,added,removed,wayback_url
 2026-01-05 06:00:03,44533496,firmware/assigned/H500-up-ver1-3-12-P1[20251217-rel50878]-signed_1767088816747.bin.rollback,2026-01-06,,
 2026-01-07 10:00:13,44533496,firmware/assigned/H500-up-ver1-3-12-P1[20251217-rel50878]-signed_1767780011937.bin,2026-01-08,,
 2026-01-08 11:00:26,44533888,firmware/assigned/H500-up-ver1-3-12-P1[20260108-rel57042]-signed_1767870024862.bin,2026-01-09,,
+2026-01-15 02:17:51,44533888,firmware/assigned/H500-up-ver1-3-12-P1[20260108-rel57042]-signed_1768443469438.bin,2026-01-15,,
 2026-01-09 03:41:05,44532020,firmware/assigned/H500-up-ver1-3-12-P1[20260109-rel36336]-signed_1767930063275.bin,2026-01-10,,
 2026-01-12 03:20:33,44532020,firmware/assigned/H500-up-ver1-3-12-P1[20260109-rel36336]-signed_1768188031865.bin,2026-01-13,,
+2026-01-15 01:40:03,44532020,firmware/assigned/H500-up-ver1-3-12-P1[20260109-rel36336]-signed_1768390806707.bin.rollback,2026-01-15,,
 2025-06-10 12:20:40,44525715,firmware/assigned/H500-up-ver1-3-4-P1[20250610-rel56706]-signed_1749558038357.bin,initial crawl,,
 2025-07-01 08:01:19,44470811,firmware/assigned/H500-up-ver1-3-4-P1[20250701-rel50494]-signed_1751356877678.bin,initial crawl,,
 2025-07-02 02:20:33,44470811,firmware/assigned/H500-up-ver1-3-4-P1[20250701-rel50494]-signed_1751422831361.bin,initial crawl,,
@@ -33264,6 +33292,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-10-31 08:00:34,1731076,firmware/assigned/L901_UN_1.4.6_Build_251027_Rel.135852_2025-10-27_13.59.25_1761897633002.bin,initial crawl,,
 2025-11-11 09:40:51,1731076,firmware/assigned/L901_UN_1.4.6_Build_251105_Rel.142020_2025-11-05_14.25.14_1762854049731.bin,initial crawl,,
 2026-01-13 11:20:02,1747460,firmware/assigned/L901_UN_1.4.8_Build_260112_Rel.171456_2026-01-12_17.15.58_1768303200833.bin,2026-01-14,,
+2026-01-15 03:20:02,1747460,firmware/assigned/L901_UN_1.4.8_Build_260112_Rel.171456_2026-01-12_17.15.58_1768447200780.bin,2026-01-15,,
 2023-09-07 07:40:10,789824,firmware/assigned/L920_UN_1.1.0_Build_230905_Rel.190143_2023-09-05_19.04.56_1694072408026.bin,initial crawl,,
 2023-10-26 09:00:24,791424,firmware/assigned/L920_UN_1.1.0_Build_231025_Rel.164545_2023-10-25_16.52.05_1698310822128.bin,initial crawl,,
 2023-11-09 08:00:04,789888,firmware/assigned/L920_UN_1.1.0_Build_231109_Rel.095712_2023-11-09_10.00.13_1699516802826.bin,initial crawl,,
@@ -34087,6 +34116,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-08-22 11:20:07,19133602,firmware/assigned/MD5_ab1c500b70a8a86a8b680c90fee3c6a0_RV30_Max_Debug_1.3.22_Build_250821_Rel.170814_1755861605655.scv,initial crawl,,
 2023-10-11 02:00:03,7393442,firmware/assigned/MD5_ac0658eea18e060b9cdf699b4622cfae_RV20_1.1.2_Build_230914_Rel.082701_1695175232747.scv.rollback,initial crawl,,
 2024-05-30 09:20:20,8131746,firmware/assigned/MD5_adf80eee76ba54d038b6fcb565208afa_RV30_Max_Plus_1.1.0_Build_240530_Rel.113700_1717060818861.scv,initial crawl,,
+2026-01-14 11:20:08,7683234,firmware/assigned/MD5_ae0cd6dacfbda30f579d78d45819ace7_RV50_Pro_Debug_1.2.2_Build_260108_Rel.104755_1768389607084.scv,2026-01-15,,
 2024-09-27 02:00:03,8238242,firmware/assigned/MD5_aeecf47eb17580380e425aacc474f3ea_RV30_Max_1.1.6_Build_240829_Rel.190749_1726896002984.scv.rollback,initial crawl,,
 2024-09-21 05:20:08,8238242,firmware/assigned/MD5_aeecf47eb17580380e425aacc474f3ea_RV30_Max_1.1.6_Build_240829_Rel.190749_1726896006833.scv,initial crawl,,
 2024-09-26 04:00:08,8238242,firmware/assigned/MD5_aeecf47eb17580380e425aacc474f3ea_RV30_Max_debug_1.1.6_Build_240829_Rel.190749_1727323206377.scv,initial crawl,,
@@ -34150,6 +34180,7 @@ creation,size,fullpath,added,removed,wayback_url
 2024-12-26 10:00:34,8873122,firmware/assigned/MD5_d00222816d28344c14fe27c07c91db70_RV30_Max_1.2.0_Build_241219_Rel.163928_1735207232573.scv,initial crawl,,
 2026-01-12 13:00:18,8812706,firmware/assigned/MD5_d006cc1e5077556acb7aff1c6b4e4941_RV20_Max_Debug_1.2.0_Build_260112_Rel.104134_1768222817162.scv,2026-01-13,,
 2026-01-13 03:00:15,8812706,firmware/assigned/MD5_d006cc1e5077556acb7aff1c6b4e4941_RV20_Max_UN_1.2.0_Build_251229_Rel.134020_DEBUG_1768273214090.scv,2026-01-14,,
+2026-01-14 08:40:26,8812706,firmware/assigned/MD5_d006cc1e5077556acb7aff1c6b4e4941_RV20_Max_UN_1.2.0_Build_251229_Rel.134020_DEBUG_1768380024681.scv,2026-01-15,,
 2026-01-07 06:20:22,8296610,firmware/assigned/MD5_d10d8e46ba5993cb491d3114a82b2b8d_RV50_Pro_Debug_1.2.1_Build_260106_Rel.181606_1767766820302.scv,2026-01-08,,
 2023-11-08 07:00:19,7418018,firmware/assigned/MD5_d14998ff8b26b5caeee0a51aaa86b0b6_RV20_Mop_close_1.1.2_Build_231030_Rel.194717_1699426816947.scv,initial crawl,,
 2024-10-12 06:40:08,9319586,firmware/assigned/MD5_d23db42fc9dbd2a8dee681a2551705cd_CleanPackImg_1728715206382.scv,initial crawl,,
@@ -34284,6 +34315,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-31 08:40:54,187752208,firmware/assigned/NB410v(FRSFR)v1_1.6.0_3.0.0_Build_251229_Rel.5723n_UP_BOOT_beta_2025-12-29_18.26.29_1767170451878.bin,2026-01-01,,
 2026-01-06 09:21:26,194344662,firmware/assigned/NB410v(FRSFR)v1_1.6.0_3.0.0_Build_260106_Rel.10698n_UP_BOOT_beta_2026-01-06_11.20.40_1767691284386.bin,2026-01-07,,
 2025-12-31 09:40:22,187751973,firmware/assigned/NB410v(FRSFR)v1_1.6.1_3.0.0_Build_251231_Rel.31927n_UP_BOOT_beta_2025-12-31_17.16.25_1767174019964.bin,2026-01-01,,
+2026-01-14 09:00:34,187759489,firmware/assigned/NB410v(FRSFR)v1_1.7.0_3.0.0_Build_260114_Rel.28483n_UP_BOOT_2026-01-14_16.24.21_1768381231533.bin,2026-01-15,,
 2025-10-25 07:00:21,186958652,firmware/assigned/NB410vFRSFRv1_1.1.0_3.0.0_Build_251020_Rel.58176n_UP_BOOT_beta_2025-10-25_14.39.29_1761375619020.bin,initial crawl,,
 2025-10-27 07:00:44,186958652,firmware/assigned/NB410vFRSFRv1_1.1.0_3.0.0_Build_251020_Rel.58176n_UP_BOOT_beta_2025-10-25_14.39.29_1761548442328.bin,initial crawl,,
 2025-12-17 01:41:37,72544032,firmware/assigned/NE200-Outdoor(EU1)v1_1.3.0_3.0.0_UP_BOOT_2025-12-08_15.11.05_1765935694906.bin,2025-12-17,,
@@ -34740,7 +34772,9 @@ creation,size,fullpath,added,removed,wayback_url
 2025-11-28 06:21:11,1577556,firmware/assigned/P110M_UN_1.4.1_Build_251112_Rel.140351_2025-11-12_14.06.48_1764310870159.bin,2025-11-29,,
 2025-12-01 03:00:02,1577556,firmware/assigned/P110M_UN_1.4.1_Build_251112_Rel.140351_2025-11-12_14.06.48_1764558000725.bin,2025-12-02,,
 2025-12-22 06:20:12,1578964,firmware/assigned/P110M_UN_1.4.2_Build_251212_Rel.115942-signed_1766384410605.bin,2025-12-23,,
-2026-01-09 04:00:02,1579220,firmware/assigned/P110M_UN_1.4.3_Build_260107_Rel.082926_2026-01-07_08.55.11_1767931200753.bin,2026-01-10,,
+2026-01-09 04:00:02,1579220,firmware/assigned/P110M_UN_1.4.3_Build_260107_Rel.082926_2026-01-07_08.55.11_1767931200753.bin,2026-01-10,2026-01-15,
+2026-01-15 01:20:03,1579220,firmware/assigned/P110M_UN_1.4.3_Build_260107_Rel.082926_2026-01-07_08.55.11_1767931200753.bin.rollback,2026-01-15,,
+2026-01-15 01:20:02,1579220,firmware/assigned/P110M_UN_1.4.3_Build_260107_Rel.082926_2026-01-07_08.55.11_1768440000819.bin,2026-01-15,,
 2025-10-11 07:20:03,1578196,firmware/assigned/P110M_UN_1.5.0_Build_251010_Rel.104300_2025-10-10_10.46.11_1760163628505.bin.rollback,initial crawl,,
 2025-10-11 08:00:03,1578196,firmware/assigned/P110M_UN_1.5.0_Build_251010_Rel.104300_2025-10-10_10.46.11_1760169601832.bin,initial crawl,,
 2025-10-14 03:00:03,1578196,firmware/assigned/P110M_UN_1.5.0_Build_251010_Rel.104300_2025-10-10_10.46.11_1760409600628.bin.rollback,initial crawl,,
@@ -35499,6 +35533,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-04-08 03:00:04,19555,firmware/assigned/T300(EU)_1.8.0_Build_250227_Rel.160630_2025-02-27_16.07.03_1744081202823.bin,initial crawl,,
 2025-09-20 11:00:17,19555,firmware/assigned/T300(EU)_1.8.0_Build_250227_Rel.160630_2025-02-27_16.07.03_1758366015946.bin,initial crawl,,
 2025-10-23 11:00:10,19555,firmware/assigned/T300(EU)_1.8.0_Build_250227_Rel.160630_2025-02-27_16.07.03_1761217209042.bin,initial crawl,,
+2026-01-15 02:41:32,19555,firmware/assigned/T300(EU)_1.8.0_Build_250227_Rel.160630_2025-02-27_16.07.03_1768444891269.bin,2026-01-15,,
 2025-11-18 07:00:29,19555,firmware/assigned/T300(EU)_1.8.0_Build_251107_Rel.194743_2025-11-07_19.48.13_1763449227740.bin,initial crawl,,
 2025-11-20 03:00:03,19555,firmware/assigned/T300(EU)_1.8.0_Build_251107_Rel.194743_2025-11-07_19.48.13_1763606403513.bin.rollback,initial crawl,,
 2023-03-02 12:00:00,18299,firmware/assigned/T300(EU)test_1.6.0_Build_230210_Rel.155516_2023-02-10_15.55.59_1677758398811.bin,initial crawl,,
@@ -35692,6 +35727,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-11-24 14:20:04,6703168,firmware/assigned/Tapo_C100v5_en_1.3.5_Build_251124_Rel.73177n_up_boot-signed_1763994002893.bin,2025-11-25,,
 2025-12-17 09:00:07,6696056,firmware/assigned/Tapo_C100v5_en_1.3.6_Build_251216_Rel.74227n_up_boot-signed_1765962006047.bin,2025-12-18,,
 2025-12-17 09:20:03,6696056,firmware/assigned/Tapo_C100v5_en_1.3.6_Build_251216_Rel.74227n_up_boot-signed_1765963201461.bin,2025-12-18,,
+2026-01-15 02:41:30,6690560,firmware/assigned/Tapo_C100v5_en_1.3.6_Build_260114_Rel.66824n_up-signed_1768444888753.bin,2026-01-15,,
 2025-11-11 11:20:03,6688428,firmware/assigned/Tapo_C100v5_en_1.4.1_Build_251014_Rel.39811n_up_boot-signed_1762844403919.bin.rollback,initial crawl,,
 2025-11-13 11:40:12,6688428,firmware/assigned/Tapo_C100v5_en_1.4.1_Build_251014_Rel.39811n_up_boot-signed_1763034010983.bin,initial crawl,,
 2025-10-28 11:00:05,6717152,firmware/assigned/Tapo_C100v5_en_1.4.2_Build_251024_Rel.58382n_up_boot-signed_1761649203897.bin,initial crawl,,
@@ -35708,6 +35744,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-01 01:00:07,6716012,firmware/assigned/Tapo_C100v5_en_1.4.3_Build_251128_Rel.67826n_up_boot-signed_1764550805501.bin,2025-12-01,2025-12-10,
 2025-12-10 01:20:03,6716012,firmware/assigned/Tapo_C100v5_en_1.4.3_Build_251128_Rel.67826n_up_boot-signed_1764550805501.bin.rollback,2025-12-10,,
 2025-12-01 08:40:03,6716012,firmware/assigned/Tapo_C100v5_en_1.4.3_Build_251128_Rel.67826n_up_boot-signed_1764578401944.bin,2025-12-02,,
+2026-01-14 06:20:04,6717880,firmware/assigned/Tapo_C100v5_en_1.4.3_Build_260113_Rel.56505n_up_boot-signed_1768371603132.bin,2026-01-15,,
 2024-12-18 11:00:14,7081692,firmware/assigned/Tapo_C103v1_en_1.0.5_Build_241217_Rel.37447n_up_boot-signed_1734519612514.bin,initial crawl,,
 2025-12-30 08:00:40,7168032,firmware/assigned/Tapo_C103v1_en_1.1.13_Build_251230_Rel.38278n_up_boot-signed_1767081639107.bin,2025-12-31,,
 2025-03-17 06:40:03,7142228,firmware/assigned/Tapo_C103v1_en_1.1.1_Build_250211_Rel.55903n_up_boot-signed_1742193601890.bin,initial crawl,,
@@ -36121,6 +36158,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-11-27 11:00:27,8258048,firmware/assigned/Tapo_C200v2_en_1.3.18_Build_251120_Rel.70344n_up_boot-signed_1764241225341.bin,2025-11-28,2025-12-05,
 2025-12-04 09:00:10,8258048,firmware/assigned/Tapo_C200v2_en_1.3.18_Build_251120_Rel.70344n_up_boot-signed_1764241225341.bin.rollback,2025-12-05,,
 2026-01-14 03:41:08,8258048,firmware/assigned/Tapo_C200v2_en_1.3.19_Build_260114_Rel.40038n_up_boot-signed_1768362066578.bin,2026-01-14,,
+2026-01-14 04:00:09,8258048,firmware/assigned/Tapo_C200v2_en_1.3.19_Build_260114_Rel.40038n_up_boot-signed_1768363207747.bin,2026-01-15,,
 2023-03-01 03:40:42,8258048,firmware/assigned/Tapo_C200v2_en_1.3.2_Build_230301_Rel.35112n_up_boot-signed_1677642040074.bin,initial crawl,,
 2023-03-16 03:00:15,8258048,firmware/assigned/Tapo_C200v2_en_1.3.3_Build_230222_Rel.62157n_up_boot-signed_1678935613155.bin,initial crawl,,
 2023-03-31 03:40:10,8258048,firmware/assigned/Tapo_C200v2_en_1.3.5_Build_230307_Rel.2897n_up_boot-signed_1680234008474.bin,initial crawl,,
@@ -37279,6 +37317,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-01 11:21:05,15794352,firmware/assigned/Tapo_C260v1_en_1.1.8_Build_251201_Rel.67315n_up_boot-signed_1764588064074.bin,2025-12-02,,
 2025-12-10 02:20:24,15764244,firmware/assigned/Tapo_C260v1_en_1.1.8_Build_251205_Rel.64131n_up_boot-signed_1765333222527.bin,2025-12-10,,
 2025-12-10 06:00:09,15764244,firmware/assigned/Tapo_C260v1_en_1.1.8_Build_251205_Rel.64131n_up_boot-signed_1765346407536.bin,2025-12-11,,
+2026-01-14 04:00:12,15772208,firmware/assigned/Tapo_C260v1_en_1.1.9_Build_260112_Rel.53488n_up_boot-signed_1768363210929.bin,2026-01-15,,
 2025-10-23 11:40:05,15757968,firmware/assigned/Tapo_C260v1_en_1.4.1_Build_251023_Rel.58957n_up_boot-signed_1761219603798.bin,initial crawl,,
 2025-10-24 08:40:26,15759272,firmware/assigned/Tapo_C260v1_en_1.4.1_Build_251024_Rel.47346n_up_boot-signed_1761295224443.bin,initial crawl,,
 2025-11-06 09:20:03,15759272,firmware/assigned/Tapo_C260v1_en_1.4.1_Build_251024_Rel.47346n_up_boot-signed_1762420801869.bin,initial crawl,,
@@ -38403,6 +38442,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-09-17 10:00:28,17302016,firmware/assigned/Tapo_C425v2_en_1.2.0_Build_250916_Rel.64972n_up_boot-signed_1758103226874.bin,initial crawl,,
 2025-09-19 03:42:03,17302016,firmware/assigned/Tapo_C425v2_en_1.2.0_Build_250919_Rel.33894n_up_boot-signed_1758253321293.bin,initial crawl,,
 2026-01-12 11:02:52,17302016,firmware/assigned/Tapo_C425v2_en_1.2.0_Build_260107_Rel.69798n_up_boot-signed_1768215770863.bin,2026-01-13,,
+2026-01-14 08:20:42,17302016,firmware/assigned/Tapo_C425v2_en_1.2.0_Build_260114_Rel.53462n_up_boot-signed_1768378840376.bin,2026-01-15,,
 2025-10-23 07:40:40,17302016,firmware/assigned/Tapo_C425v2_en_1.2.1_Build_251022_Rel.39287n_up_boot-signed_1761205238751.bin,initial crawl,,
 2025-10-24 08:00:26,17302016,firmware/assigned/Tapo_C425v2_en_1.2.1_Build_251022_Rel.55023n_up_boot-signed_1761292825144.bin,initial crawl,,
 2025-11-04 10:20:51,17302016,firmware/assigned/Tapo_C425v2_en_1.2.1_Build_251031_Rel.54626n_up_boot-signed_1762251649999.bin,initial crawl,,
@@ -38584,6 +38624,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-11-17 11:41:13,14221824,firmware/assigned/Tapo_C460v1_en_1.2.1_Build_251117_Rel.54205n_up_boot2-signed_1763379671625.bin,initial crawl,,
 2025-12-30 09:40:08,14221824,firmware/assigned/Tapo_C460v1_en_1.2.1_Build_251226_Rel.65917n_up_boot2-signed_1767087606287.bin,2025-12-31,,
 2026-01-14 02:20:19,14221824,firmware/assigned/Tapo_C460v1_en_1.2.1_Build_260113_Rel.72101n_up_boot2-signed_1768357217248.bin,2026-01-14,,
+2026-01-15 02:41:26,14221824,firmware/assigned/Tapo_C460v1_en_1.2.1_Build_260113_Rel.72101n_up_boot2-signed_1768444884704.bin,2026-01-15,,
 2026-01-05 03:40:59,14483968,firmware/assigned/Tapo_C460v1_en_1.2.2_Build_260104_Rel.60449n_up_boot2-signed_1767584457495.bin,2026-01-06,,
 2025-06-10 08:40:43,14615040,firmware/assigned/Tapo_C465v1_en_1.0.0_Build_250605_Rel.58230n_up_boot2-signed_1749544841830.bin,initial crawl,,
 2025-06-24 11:40:10,14680576,firmware/assigned/Tapo_C465v1_en_1.0.0_Build_250619_Rel.58636n_up_boot2-signed_1750765209002.bin,initial crawl,,
@@ -39326,6 +39367,7 @@ creation,size,fullpath,added,removed,wayback_url
 2026-01-07 02:20:50,12601966,firmware/assigned/Tapo_C530WSv2_28_en_1.0.1_Build_251219_Rel.55764n_up_boot-signed_1767752448494.bin,2026-01-07,,
 2026-01-09 06:00:17,13085974,firmware/assigned/Tapo_C530WSv2_28_en_1.0.1_Build_260108_Rel.68418n_up_boot-signed_1767938415662.bin,2026-01-10,,
 2026-01-09 05:20:42,13086630,firmware/assigned/Tapo_C530WSv2_28_en_1.0.1_Build_260109_Rel.42559n_up_boot-signed_1767936040896.bin,2026-01-10,,
+2026-01-14 10:01:04,13086878,firmware/assigned/Tapo_C530WSv2_28_en_1.0.1_Build_260114_Rel.60190n_up_boot-signed_1768384863081.bin,2026-01-15,,
 2025-03-04 07:00:33,12391914,firmware/assigned/Tapo_C530WSv2_en_1.0.7_Build_250211_Rel.61568n_up_boot-signed_1741071631973.bin,initial crawl,,
 2025-03-27 09:40:31,12407370,firmware/assigned/Tapo_C530WSv2_en_1.0.7_Build_250326_Rel.69013n_up_boot-signed_1743068429761.bin,initial crawl,,
 2025-04-23 09:21:01,12394238,firmware/assigned/Tapo_C530WSv2_en_1.0.8_Build_250423_Rel.55790n_up_boot-signed_1745400059357.bin,initial crawl,,
@@ -39379,6 +39421,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-26 01:20:22,13037135,firmware/assigned/Tapo_C530WSv2_en_1.3.3_Build_251225_Rel.63489n_up_boot-signed_1766712020720.bin,2025-12-26,,
 2026-01-09 04:00:53,13024007,firmware/assigned/Tapo_C530WSv2_en_1.3.3_Build_260109_Rel.37222n_up_boot-signed_1767931251691.bin,2026-01-10,,
 2026-01-14 02:20:52,13023430,firmware/assigned/Tapo_C530WSv2_en_1.3.3_Build_260113_Rel.66097n_up_boot-signed_1768357251183.bin,2026-01-14,,
+2026-01-14 08:20:45,13163294,firmware/assigned/Tapo_C530WSv2_en_1.3.4_Build_260113_Rel.62665n_up_boot-signed_1768378844241.bin,2026-01-15,,
 2025-07-14 08:00:10,12928234,firmware/assigned/Tapo_C530WSv2_en_1.4.1_Build_250625_Rel.56978n_up_boot-signed_1752480009226.bin,initial crawl,,
 2025-04-28 06:20:03,10479520,firmware/assigned/Tapo_C545Dv1_en_1.0.3_Build_250425_Rel.35966n_up_boot-signed_1745818833327.bin.rollback,initial crawl,,
 2025-04-28 12:20:03,10479520,firmware/assigned/Tapo_C545Dv1_en_1.0.3_Build_250425_Rel.35966n_up_boot-signed_1745821202462.bin.rollback,initial crawl,,
@@ -39487,6 +39530,7 @@ creation,size,fullpath,added,removed,wayback_url
 2026-01-10 10:40:14,16615024,firmware/assigned/Tapo_C560WSv1_en_1.1.5_Build_260110_Rel.61602n_up_boot-signed_1768041613204.bin,2026-01-11,,
 2026-01-13 08:20:14,16582896,firmware/assigned/Tapo_C560WSv1_en_1.1.5_Build_260113_Rel.57600n_up_boot-signed_1768292413109.bin,2026-01-14,,
 2026-01-13 10:00:36,16582896,firmware/assigned/Tapo_C560WSv1_en_1.1.5_Build_260113_Rel.57600n_up_boot-signed_1768298434732.bin,2026-01-14,,
+2026-01-14 06:00:28,16595788,firmware/assigned/Tapo_C560WSv1_en_1.1.5_Build_260113_Rel.71136n_up_boot-signed_1768370426801.bin,2026-01-15,,
 2026-01-14 02:20:32,16582896,firmware/assigned/Tapo_C560WSv1_en_1.1.5_Build_260114_Rel.57600n_up_boot-signed_1768357230528.bin,2026-01-14,,
 2025-07-11 09:40:20,28715448,firmware/assigned/Tapo_C566wbv1_en_1.0.1_Build_250709_Rel.34021n_up_boot-signed_1752226818406.bin,initial crawl,,
 2025-08-12 02:59:18,28846708,firmware/assigned/Tapo_C566wbv1_en_1.0.1_Build_250805_Rel.71865n_up_boot-signed_1754967556626.bin,initial crawl,,
@@ -39769,6 +39813,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-25 11:00:03,17236480,firmware/assigned/Tapo_C615G_en_1.1.6_Build_251223_Rel.50202n_up_boot-signed_1766487617828.bin.rollback,2025-12-26,,
 2025-12-25 11:20:28,17236480,firmware/assigned/Tapo_C615G_en_1.1.6_Build_251225_Rel.64025n_up_boot-signed_1766661626838.bin,2025-12-26,,
 2026-01-12 07:00:05,17236480,firmware/assigned/Tapo_C615G_en_1.1.6_Build_260109_Rel.72453n_up_boot-signed_1768201203419.bin,2026-01-13,,
+2026-01-14 07:40:06,17236480,firmware/assigned/Tapo_C615G_en_1.1.6_Build_260109_Rel.72453n_up_boot-signed_1768376405014.bin,2026-01-15,,
 2025-06-26 03:21:02,16253440,firmware/assigned/Tapo_C630v1_en_1.0.1_Build_250625_Rel.27724n_up_boot-signed_1750908061197.bin,initial crawl,,
 2025-07-01 02:20:21,16318976,firmware/assigned/Tapo_C630v1_en_1.0.1_Build_250627_Rel.35537n_up_boot-signed_1751336419639.bin,initial crawl,,
 2025-07-01 12:00:12,16318976,firmware/assigned/Tapo_C630v1_en_1.0.1_Build_250702_Rel.35537n_up_boot-signed_1751371210633.bin,initial crawl,,
@@ -39819,6 +39864,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-23 01:40:16,17695232,firmware/assigned/Tapo_C645D_en_1.1.6_Build_251222_Rel.61848n_up_boot-signed_1766454014301.bin,2025-12-23,,
 2025-12-23 12:41:41,17891840,firmware/assigned/Tapo_C645D_en_1.1.6_Build_251222_Rel.64406n_up_boot-signed_1766493699905.bin,2025-12-24,,
 2026-01-07 07:00:21,17695232,firmware/assigned/Tapo_C645D_en_1.1.7_Build_251223_Rel.38816n_up_boot-signed_1767769219472.bin,2026-01-08,,
+2026-01-14 12:20:22,17695232,firmware/assigned/Tapo_C645D_en_1.1.7_Build_260114_Rel.63985n_up_boot-signed_1768393221012.bin,2026-01-15,,
 2026-01-12 08:20:25,18547200,firmware/assigned/Tapo_C645D_en_1.1.8_Build_260109_Rel.59928n_up_boot-signed_1768206023994.bin,2026-01-13,,
 2025-10-23 08:01:10,17695232,firmware/assigned/Tapo_C645D_en_15.15.15_Build_251023_Rel.43769n_up_boot-signed_1761206469025.bin,initial crawl,,
 2024-10-11 03:20:03,19005952,firmware/assigned/Tapo_C660_en_1.0.0_Build_240904_Rel.66082n_up_boot-signed_1728612085464.bin.rollback,initial crawl,,
@@ -39975,6 +40021,7 @@ creation,size,fullpath,added,removed,wayback_url
 2026-01-05 04:20:44,54866788,firmware/assigned/Tapo_C665G_en_1.0.1_Build_251231_Rel.54401n_up_boot-signed_1767586842345.bin,2026-01-06,,
 2026-01-05 07:20:03,54866788,firmware/assigned/Tapo_C665G_en_1.0.1_Build_251231_Rel.54401n_up_boot-signed_1767595240921.bin.rollback,2026-01-06,,
 2026-01-05 09:40:24,54811948,firmware/assigned/Tapo_C665G_en_1.0.1_Build_260101_Rel.81784n_up_boot-signed_1767606022588.bin,2026-01-06,,
+2026-01-14 08:40:12,54866788,firmware/assigned/Tapo_C665G_en_1.0.1_Build_260109_Rel.39324n_up_boot-signed_1768380010436.bin,2026-01-15,,
 2025-04-30 01:20:55,42322176,firmware/assigned/Tapo_C665G_en_1.0.2_Build_250422_Rel.35976n_up_boot-signed_1745976053529.bin,initial crawl,,
 2025-04-30 03:17:11,42322176,firmware/assigned/Tapo_C665G_en_1.0.2_Build_250422_Rel.35976n_up_boot-signed_1745983029692.bin,initial crawl,,
 2025-04-30 03:21:27,42322176,firmware/assigned/Tapo_C665G_en_1.0.2_Build_250422_Rel.35976n_up_boot-signed_1745983286068.bin,initial crawl,,
@@ -40580,6 +40627,7 @@ creation,size,fullpath,added,removed,wayback_url
 2026-01-06 12:40:04,12255744,firmware/assigned/Tapo_D210v1_en_1.1.0_Build_260106_Rel.62397n_up_boot-signed_1767703203245.bin,2026-01-07,,
 2026-01-08 03:01:05,12255744,firmware/assigned/Tapo_D210v1_en_1.1.0_Build_260106_Rel.62397n_up_boot-signed_1767841264159.bin,2026-01-09,,
 2025-12-18 04:00:10,12255744,firmware/assigned/Tapo_D210v1_en_1.1.1_Build_251201_Rel.63321n_up_boot-signed_1766030408674.bin,2025-12-19,,
+2026-01-14 10:40:03,12255744,firmware/assigned/Tapo_D210v1_en_1.1.2_Build_251015_Rel.59297n_up_boot-signed_1768387202004.bin,2026-01-15,,
 2024-11-15 07:40:03,12190208,firmware/assigned/Tapo_D210v1_en_1.3.15_Build_241114_Rel.56677n_up_boot-signed_1731656402134.bin,initial crawl,,
 2025-02-05 10:20:05,12190208,firmware/assigned/Tapo_D210v1_en_1.3.15_Build_241114_Rel.56677n_up_boot-signed_1738750803755.bin,initial crawl,,
 2024-01-02 03:00:03,11665920,firmware/assigned/Tapo_D210v1_en_2.0.1_Build_231207_Rel.72771n_up_boot-signed_1701998445453.bin.rollback,initial crawl,,
