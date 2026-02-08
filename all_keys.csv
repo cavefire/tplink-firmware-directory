@@ -273,8 +273,8 @@ creation,size,fullpath,added,removed,wayback_url
 2025-12-10 22:25:06,125058852,app/Omada_5.0.7272_dist_202510122117.ipa,2025-12-11,,http://web.archive.org/web/20260206042220/http://download.tplinkcloud.com/app/Omada_5.0.7272_dist_202510122117.ipa
 2026-01-06 03:50:35,130541392,app/Omada_5.0.82106_dist_202511120010.ipa,2026-01-07,,https://web.archive.org/web/20260207040928/http://download.tplinkcloud.com/app/Omada_5.0.82106_dist_202511120010.ipa
 2023-08-24 00:44:20,7788904,app/TP-Partner_1.0.814_dist_202307182001_notification_1692837858325.ipa,initial crawl,,http://web.archive.org/web/20240106123718/http://download.tplinkcloud.com/app/TP-Partner_1.0.814_dist_202307182001_notification_1692837858325.ipa
-2023-11-06 08:24:40,7603065,app/TP-Partner_1.0.915_dist_202310251749_notification_1699259078027.ipa,initial crawl,,
-2023-12-13 07:44:20,7702941,app/TP-Partner_1.1.321_dist_20231128103_notification_1702453458808.ipa,initial crawl,,
+2023-11-06 08:24:40,7603065,app/TP-Partner_1.0.915_dist_202310251749_notification_1699259078027.ipa,initial crawl,,http://web.archive.org/web/20260207041537/http://download.tplinkcloud.com/app/TP-Partner_1.0.915_dist_202310251749_notification_1699259078027.ipa
+2023-12-13 07:44:20,7702941,app/TP-Partner_1.1.321_dist_20231128103_notification_1702453458808.ipa,initial crawl,,https://web.archive.org/web/20260208044226/http://download.tplinkcloud.com/app/TP-Partner_1.1.321_dist_20231128103_notification_1702453458808.ipa
 2024-02-01 15:59:29,8054848,app/TP-Partner_1.2.426_dist_202401290835_notification_1706803167347.ipa,initial crawl,,
 2024-04-29 07:04:33,6223583,app/TP-Partner_1.3.531_dist_202404161736_notification_1714374271728.ipa,initial crawl,,
 2024-06-17 02:24:16,6236764,app/TP-Partner_1.3.632_dist_202405201716_notification_1718591054921.ipa,initial crawl,,
@@ -46290,6 +46290,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-09-26 08:54:00,31654400,firmware/nvr4016hv1_en_1_2_1_up_boot_25091879251-signed_1758876838767.bin,initial crawl,,
 2025-09-28 02:52:32,31654400,firmware/nvr4016hv1_en_1_2_1_up_boot_25091879251-signed_1759027950710.bin,initial crawl,,
 2026-02-06 02:37:43,31851008,firmware/nvr4016hv1_en_1_2_2_up_boot_26012937266_signed_1770345461701.bin,2026-02-06,,
+2026-02-08 02:37:49,31851008,firmware/nvr4016hv1_en_1_2_2_up_boot_26012937266_signed_1770518267728.bin,2026-02-08,,
 2025-12-25 10:44:07,31851008,firmware/nvr4016hv1_en_1_2_3_up_boot_25121176986-signed_1766659445171.bin,2025-12-26,,
 2025-12-26 08:07:28,31851008,firmware/nvr4016hv1_en_1_2_3_up_boot_25121176986-signed_1766736446756.bin,2025-12-27,,
 2023-04-27 12:53:31,18153984,firmware/nvr4032hv1_en_1_0_0_up_boot230214-signed_1682600009773.bin,initial crawl,,
