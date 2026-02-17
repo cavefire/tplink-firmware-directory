@@ -365,8 +365,8 @@ creation,size,fullpath,added,removed,wayback_url
 2025-09-19 22:07:55,408790132,app/Tapo_3.13.5106060_20250725035601-tapo-playstore-dist-release.apk,initial crawl,,http://web.archive.org/web/20260215030749/http://download.tplinkcloud.com/app/Tapo_3.13.5106060_20250725035601-tapo-playstore-dist-release.apk
 2025-11-24 08:26:08,405068134,app/Tapo_3.14.1116111_20250909140243-tapo-playstore-dist-release.apk,2025-11-25,,https://web.archive.org/web/20260215030909/http://download.tplinkcloud.com/app/Tapo_3.14.1116111_20250909140243-tapo-playstore-dist-release.apk
 2025-11-24 08:25:01,486661996,app/Tapo_3.14.5136163_20251013060635-tapo-playstore-dist-release.apk,2025-11-25,,http://web.archive.org/web/20260215031235/http://download.tplinkcloud.com/app/Tapo_3.14.5136163_20251013060635-tapo-playstore-dist-release.apk
-2026-01-29 22:25:25,498662354,app/Tapo_3.15.1096309_20251120052814-tapo-playstore-dist-release.apk,2026-01-30,,
-2024-02-04 12:21:34,1407878731,app/Tapo_3.2.11132117_dist_202312291724_1707049255710.ipa,initial crawl,,
+2026-01-29 22:25:25,498662354,app/Tapo_3.15.1096309_20251120052814-tapo-playstore-dist-release.apk,2026-01-30,,http://web.archive.org/web/20260216030829/http://download.tplinkcloud.com/app/Tapo_3.15.1096309_20251120052814-tapo-playstore-dist-release.apk
+2024-02-04 12:21:34,1407878731,app/Tapo_3.2.11132117_dist_202312291724_1707049255710.ipa,initial crawl,,http://web.archive.org/web/20260216030945/http://download.tplinkcloud.com/app/Tapo_3.2.11132117_dist_202312291724_1707049255710.ipa
 2024-02-04 10:39:05,1427888323,app/Tapo_3.2.50432504_dist_202401081520_1707043109221.ipa,initial crawl,,
 2024-02-04 11:30:43,1428292813,app/Tapo_3.2.80232806_dist_202401241746_1707046205830.ipa,initial crawl,,
 2024-03-04 02:31:14,1428193570,app/Tapo_3.2.90132903_dist_202402231753_1709519436215.ipa,initial crawl,,
@@ -6089,6 +6089,8 @@ creation,size,fullpath,added,removed,wayback_url
 2026-01-30 10:41:10,30381896,firmware/EAP775-Wallv1_1.0.2_[20251217-rel64899]_up_signed_1769769668318.bin,2026-01-31,,
 2026-01-30 10:41:43,30381896,firmware/EAP775-Wallv1_1.0.2_[20251217-rel64899]_up_signed_1769769702138.bin,2026-01-31,,
 2026-01-30 10:57:21,30381896,firmware/EAP775-Wallv1_1.0.2_[20251217-rel64899]_up_signed_1769770639694.bin,2026-01-31,,
+2026-02-16 04:10:35,30381896,firmware/EAP775-Wallv1_1.0.4_[20260214-rel32405]_up_signed_1771215033500.bin,2026-02-17,,
+2026-02-16 04:22:15,30381896,firmware/EAP775-Wallv1_1.0.4_[20260214-rel32405]_up_signed_1771215733536.bin,2026-02-17,,
 2024-04-17 19:03:45,27866056,firmware/EAP783v1_1.0.10_[20231220-rel40852]_up_signed_1713380623451.bin,initial crawl,,
 2024-04-17 19:11:43,27866056,firmware/EAP783v1_1.0.10_[20231220-rel40852]_up_signed_1713381100876.bin,initial crawl,,
 2024-04-17 19:12:56,27866056,firmware/EAP783v1_1.0.10_[20231220-rel40852]_up_signed_1713381174272.bin,initial crawl,,
