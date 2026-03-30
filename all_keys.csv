@@ -6398,6 +6398,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-07-15 13:22:20,49939104,firmware/EB810vv1_0.7.0_3.0.0_UP_BOOT_2025-04-28_19.50.41_1752585738979.bin,initial crawl,,
 2025-12-16 08:38:33,49939106,firmware/EB810vv1_0.8.0_3.0.0_UP_BOOT_2025-10-23_14.16.43_1765874311157.bin,2025-12-17,,
 2026-02-03 03:52:26,49939106,firmware/EB810vv1_0.8.0_3.0.0_UP_BOOT_2025-10-23_14.16.43_1770090744431.bin,2026-02-03,,
+2026-03-30 01:52:36,50886536,firmware/EB831vv1_0.1.0_3.2.2_UP_BOOT_2026-01-19_17.29.28_1774835554538.bin,2026-03-30,,
 2020-08-27 01:37:29,9333859,firmware/EC60-up-ver2-3-0-P120200528-rel71268-signed_1598492247044.bin,initial crawl,,http://web.archive.org/web/20240120022612/http://download.tplinkcloud.com/firmware/EC60-up-ver2-3-0-P120200528-rel71268-signed_1598492247044.bin
 2020-08-27 01:52:43,9371007,firmware/EC60-up-ver2-3-1-P120200731-rel65546-signed_1598493161140.bin,initial crawl,,http://web.archive.org/web/20240131100150/http://download.tplinkcloud.com/firmware/EC60-up-ver2-3-1-P120200731-rel65546-signed_1598493161140.bin
 2021-09-07 07:52:24,9686488,firmware/EC60-up-ver2-3-11-P120210820-rel73222-signed_1631001142903.bin,initial crawl,,http://web.archive.org/web/20240128084409/http://download.tplinkcloud.com/firmware/EC60-up-ver2-3-11-P120210820-rel73222-signed_1631001142903.bin
@@ -6932,6 +6933,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-04-22 09:52:10,26346137,firmware/EX820v_UP_2025-01-24_17.22.37_1745315528656.bin,initial crawl,,
 2025-05-09 03:53:20,26346137,firmware/EX820v_UP_2025-01-24_17.22.37_1746762798221.bin,initial crawl,,
 2025-02-25 06:08:17,26870429,firmware/EX820v_UP_BOOT_2024-08-02_11.44.55_1740463695191.bin,initial crawl,,
+2026-03-30 02:07:12,31589016,firmware/EX820v_UP_BOOT_2025-12-10_16.51.20_1774836430393.bin,2026-03-30,,
 2024-01-05 06:23:31,25690780,firmware/EX821v_UP_2023-06-07_19.06.35_1704435809443.bin,initial crawl,,
 2024-01-05 07:53:21,25690780,firmware/EX821v_UP_2023-06-07_19.06.35_1704441199258.bin,initial crawl,,
 2024-01-12 03:09:02,27001501,firmware/EX821v_UP_2023-11-02_08.44.08_1705028940112.bin,initial crawl,,
@@ -7834,6 +7836,8 @@ creation,size,fullpath,added,removed,wayback_url
 2025-09-11 01:37:30,686544,firmware/HS300_FCC_1.1.2_Build_241220_Rel.171333_2024-12-20_17.14.48_1757554648912.bin,initial crawl,,
 2021-04-12 07:08:24,524456,firmware/HS300_FCC_HS300US_1.0.20_Build_210125_Rel.1022_1618211302166.bin,initial crawl,,http://web.archive.org/web/20240109020545/http://download.tplinkcloud.com/firmware/HS300_FCC_HS300US_1.0.20_Build_210125_Rel.1022_1618211302166.bin
 2021-07-01 09:40:41,524456,firmware/HS300_FCC_HS300US_1.0.21_Build_210524_Rel.1613_1625132439858.bin,initial crawl,,http://web.archive.org/web/20240107030818/http://download.tplinkcloud.com/firmware/HS300_FCC_HS300US_1.0.21_Build_210524_Rel.1613_1625132439858.bin
+2026-03-30 01:11:03,14390849,firmware/HX141v1_1.1.0_3.1.0_UP_BOOT_agc3000(240415)_2024-04-15_11.50.42_1774833061684.bin,2026-03-30,,
+2026-03-30 01:11:53,14390849,firmware/HX141v1_1.1.0_3.1.0_UP_BOOT_agc3000(240415)_2024-04-15_11.50.42_1774833111498.bin,2026-03-30,,
 2021-10-18 12:07:34,14049027,firmware/HX220-G5V1_UP_BOOT_2021-09-28_16.59.23_1634558852251.bin,initial crawl,,http://web.archive.org/web/20240130180031/http://download.tplinkcloud.com/firmware/HX220-G5V1_UP_BOOT_2021-09-28_16.59.23_1634558852251.bin
 2025-06-03 10:52:51,14811814,firmware/HX220_UP_1024to2048_2025-02-06_14.42.47_1748947969900.bin,initial crawl,,
 2025-06-04 01:07:07,14811814,firmware/HX220_UP_1024to2048_2025-02-06_14.42.47_1748999225857.bin,initial crawl,,
@@ -8033,6 +8037,7 @@ creation,size,fullpath,added,removed,wayback_url
 2026-02-06 03:37:55,28443294,firmware/HX710_Prov1_0.2.0_3.0.0_UP_BOOT_2024-08-06_14.03.52_1770349074062.bin,2026-02-06,,
 2026-02-12 01:38:04,28443294,firmware/HX710_Prov1_0.2.0_3.0.0_UP_BOOT_2024-08-06_14.03.52_1770860283085.bin,2026-02-12,,
 2026-02-12 01:38:33,28443294,firmware/HX710_Prov1_0.2.0_3.0.0_UP_BOOT_2024-08-06_14.03.52_1770860311743.bin,2026-02-12,,
+2026-03-30 01:22:24,28967585,firmware/HX710_Prov1_0.4.0_3.1.10_UP_BOOT_2026-02-05_09.14.20_1774833742983.bin,2026-03-30,,
 2022-12-06 01:38:01,26477219,firmware/HX710v1_0.1.0_3.0.0_UP_BOOT_2022-08-31_14.00.2_1670290679716.bin,initial crawl,,http://web.archive.org/web/20240130190355/http://download.tplinkcloud.com/firmware/HX710v1_0.1.0_3.0.0_UP_BOOT_2022-08-31_14.00.2_1670290679716.bin
 2026-02-05 09:38:48,26739364,firmware/HX710v1_0.2.0_3.0.0_UP_BOOT_2022-11-21_14.29.2_1770284326879.bin,2026-02-06,,
 2026-02-06 03:22:55,26739364,firmware/HX710v1_0.2.0_3.0.0_UP_BOOT_2022-11-21_14.29.2_1770348173820.bin,2026-02-06,,
@@ -19321,6 +19326,7 @@ creation,size,fullpath,added,removed,wayback_url
 2026-02-02 02:08:07,7958576,firmware/Tapo_C202v2_en_1.2.2_Build_260109_Rel.37606n_up_boot-signed_1769998085613.bin,2026-02-02,,
 2026-02-02 02:29:00,7958576,firmware/Tapo_C202v2_en_1.2.2_Build_260109_Rel.37606n_up_boot-signed_1769999338444.bin,2026-02-02,,
 2026-03-28 07:52:29,7958716,firmware/Tapo_C202v2_en_1.2.3_Build_260306_Rel.7982n_up_boot-signed_1774684348174.bin,2026-03-29,,
+2026-03-30 02:07:32,7958716,firmware/Tapo_C202v2_en_1.2.3_Build_260306_Rel.7982n_up_boot-signed_1774836450719.bin,2026-03-30,,
 2025-03-18 03:09:03,7963448,firmware/Tapo_C202v3_en_1.0.2_Build_250303_Rel.50316n_up_boot-signed_1742267341991.bin,initial crawl,,
 2025-03-24 02:08:31,7963448,firmware/Tapo_C202v3_en_1.0.2_Build_250303_Rel.50316n_up_boot-signed_1742782109823.bin,initial crawl,,
 2025-04-14 04:22:36,7963444,firmware/Tapo_C202v3_en_1.0.3_Build_250326_Rel.40415n_up_boot-signed_1744604554607.bin,initial crawl,,
@@ -23037,6 +23043,9 @@ creation,size,fullpath,added,removed,wayback_url
 2026-03-27 01:53:18,12517888,firmware/Tapo_D205v1_en_1.2.7_Build_260227_Rel.40424n_up_boot_2026-02-27_11.38.44_1774576396300.bin,2026-03-27,,
 2026-03-27 01:55:53,12517888,firmware/Tapo_D205v1_en_1.2.7_Build_260227_Rel.40424n_up_boot_2026-02-27_11.38.44_1774576551546.bin,2026-03-27,,
 2026-03-27 02:08:25,12517888,firmware/Tapo_D205v1_en_1.2.7_Build_260227_Rel.40424n_up_boot_2026-02-27_11.38.44_1774577303441.bin,2026-03-27,,
+2026-03-30 03:07:54,12517888,firmware/Tapo_D205v1_en_1.2.7_Build_260227_Rel.40424n_up_boot_2026-02-27_11.38.44_1774840072580.bin,2026-03-30,,
+2026-03-30 03:08:39,12517888,firmware/Tapo_D205v1_en_1.2.7_Build_260227_Rel.40424n_up_boot_2026-02-27_11.38.44_1774840117575.bin,2026-03-30,,
+2026-03-30 03:09:03,12517888,firmware/Tapo_D205v1_en_1.2.7_Build_260227_Rel.40424n_up_boot_2026-02-27_11.38.44_1774840141619.bin,2026-03-30,,
 2024-06-27 03:52:31,11993600,firmware/Tapo_D210v1_en_1.0.10_Build_240522_Rel.70168n_up_boot-signed_1719460350044.bin,initial crawl,,
 2024-06-27 03:54:02,11993600,firmware/Tapo_D210v1_en_1.0.10_Build_240522_Rel.70168n_up_boot-signed_1719460440602.bin,initial crawl,,
 2024-06-27 03:55:21,11993600,firmware/Tapo_D210v1_en_1.0.10_Build_240522_Rel.70168n_up_boot-signed_1719460519743.bin,initial crawl,,
@@ -35088,6 +35097,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-09-17 04:20:06,2033988,firmware/assigned/L550_UN_1.0.5_Build_250916_Rel.194135_2025-09-16_19.43.05_1758082804643.bin,initial crawl,,
 2025-11-04 10:00:02,2033796,firmware/assigned/L550_UN_1.0.5_Build_251104_Rel.173523_2025-11-04_17.37.42_1762250400780.bin,initial crawl,,
 2026-03-23 10:00:03,2049796,firmware/assigned/L550_UN_1.0.6_Build_260323_Rel.171258_2026-03-23_17.15.19_1774258820785.bin.rollback,2026-03-24,,
+2026-03-30 02:00:02,1768068,firmware/assigned/L550_UN_1.0.6_Build_260330_Rel.093728_2026-03-30_09.39.57_1774836000874.bin,2026-03-30,,
 2025-11-10 02:20:02,2051204,firmware/assigned/L730_UN_1.0.10_Build_251107_Rel.174129_2025-11-07_17.42.53_1762741200778.bin,initial crawl,,
 2025-11-12 08:40:05,2050756,firmware/assigned/L730_UN_1.0.12_Build_251112_Rel.153456_2025-11-12_15.38.08_1762936803454.bin,initial crawl,,
 2025-11-14 10:40:02,2051204,firmware/assigned/L730_UN_1.0.12_Build_251114_Rel.174158_2025-11-14_17.43.58_1763116800732.bin,initial crawl,,
@@ -42138,7 +42148,8 @@ creation,size,fullpath,added,removed,wayback_url
 2026-03-03 10:00:14,16606224,firmware/assigned/Tapo_C560WSv1_en_1.1.8_Build_260302_Rel.9819n_up_boot-signed_1772532012328.bin,2026-03-04,,
 2026-03-04 10:01:02,16641824,firmware/assigned/Tapo_C560WSv1_en_1.1.8_Build_260304_Rel.33654n_up_boot_sign_1772618460498.bin,2026-03-05,,
 2026-03-10 01:40:07,16609388,firmware/assigned/Tapo_C560WSv1_en_1.1.8_Build_260309_Rel.43940n_up_boot-signed_1773106805652.bin,2026-03-10,,
-2026-03-27 10:20:26,16609388,firmware/assigned/Tapo_C560WSv1_en_1.1.8_Build_260309_Rel.43940n_up_boot-signed_1774606824360.bin,2026-03-28,,
+2026-03-27 10:20:26,16609388,firmware/assigned/Tapo_C560WSv1_en_1.1.8_Build_260309_Rel.43940n_up_boot-signed_1774606824360.bin,2026-03-28,2026-03-30,
+2026-03-30 01:40:03,16609388,firmware/assigned/Tapo_C560WSv1_en_1.1.8_Build_260309_Rel.43940n_up_boot-signed_1774606824360.bin.rollback,2026-03-30,,
 2026-03-11 02:00:10,16610776,firmware/assigned/Tapo_C560WSv1_en_1.1.8_Build_260310_Rel.34293n_up_boot-signed_1773194408223.bin,2026-03-11,,
 2026-03-19 08:40:09,16639416,firmware/assigned/Tapo_C560WSv1_en_1.1.8_Build_260319_Rel.27875n_up_boot-signed_1773909607464.bin,2026-03-20,,
 2026-03-20 07:00:51,16610096,firmware/assigned/Tapo_C560WSv1_en_1.1.8_Build_260320_Rel.4854n_up_boot-signed_1773990049372.bin,2026-03-21,,
