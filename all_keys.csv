@@ -375,7 +375,7 @@ creation,size,fullpath,added,removed,wayback_url
 2026-01-29 22:25:25,498662354,app/Tapo_3.15.1096309_20251120052814-tapo-playstore-dist-release.apk,2026-01-30,,http://web.archive.org/web/20260216030829/http://download.tplinkcloud.com/app/Tapo_3.15.1096309_20251120052814-tapo-playstore-dist-release.apk
 2026-03-02 07:27:33,553261231,app/Tapo_3.16.1746424_20251224164955-tapo-playstore-dist-release.apk,2026-03-03,,https://web.archive.org/web/20260303031619/http://download.tplinkcloud.com/app/Tapo_3.16.1746424_20251224164955-tapo-playstore-dist-release.apk
 2026-04-08 02:58:25,722253543,app/Tapo_3.17.10337107_dist_202601300516.ipa,2026-04-08,,http://web.archive.org/web/20260419030949/https://download.tplinkcloud.com/app/Tapo_3.17.10337107_dist_202601300516.ipa
-2026-04-08 02:49:03,554692174,app/Tapo_3.17.1096609_20260130061407-tapo-playstore-dist-release.apk,2026-04-08,,
+2026-04-08 02:49:03,554692174,app/Tapo_3.17.1096609_20260130061407-tapo-playstore-dist-release.apk,2026-04-08,,http://web.archive.org/web/20260426031103/https://download.tplinkcloud.com/app/Tapo_3.17.1096609_20260130061407-tapo-playstore-dist-release.apk
 2026-04-08 04:12:11,742462988,app/Tapo_3.17.50337511_dist_202602280226.ipa,2026-04-09,,
 2026-04-08 03:46:14,569581983,app/Tapo_3.17.5106660_20260228050745-tapo-playstore-dist-release.apk,2026-04-09,,
 2026-04-08 02:53:26,573497958,app/Tapo_3.17.8036673_20260320103249-tapo-playstore-dist-release.apk,2026-04-08,,
@@ -2434,6 +2434,7 @@ creation,size,fullpath,added,removed,wayback_url
 2026-03-31 01:57:30,115233746,firmware/Archer_NX505_1.0.0_UP_Release_2025-12-18_16.47.29_1774922248463.bin,2026-03-31,,
 2026-04-01 02:08:14,115233746,firmware/Archer_NX505_1.0.0_UP_Release_2025-12-18_16.47.29_1775009292249.bin,2026-04-01,,
 2026-04-23 08:38:21,116616146,firmware/Archer_NX505_1.1.0_UP_Release_2026-03-04_16.17.52_1776933499213.bin,2026-04-24,,
+2026-04-27 02:52:56,116616146,firmware/Archer_NX505_1.1.0_UP_Release_2026-03-04_16.17.52_1777258373907.bin,2026-04-27,,
 2024-09-29 11:38:18,67800300,firmware/Archer_NX600(EU1)v1_1.0.0_3.0.0_UP_BOOT_2024-05-28_17.13.37_1727609896665.bin,initial crawl,,
 2024-10-10 04:38:52,69688072,firmware/Archer_NX600(EU1)v1_1.1.0_3.0.0_UP_BOOT_2024-08-23_10.19.15_1728535130008.bin,initial crawl,,
 2025-01-20 03:08:34,69688072,firmware/Archer_NX600(EU1)v1_1.1.0_3.0.0_UP_BOOT_2024-08-23_10.19.15_1737342512592.bin,initial crawl,,
@@ -33076,6 +33077,7 @@ creation,size,fullpath,added,removed,wayback_url
 2026-04-16 02:20:02,1624327,firmware/assigned/DL100_US_1.0.17_Build_260331_Rel.155652_2026-03-31_15.58.55_1776306000720.bin,2026-04-16,2026-04-17,
 2026-04-16 06:00:03,1624327,firmware/assigned/DL100_US_1.0.17_Build_260331_Rel.155652_2026-03-31_15.58.55_1776306000720.bin.rollback,2026-04-17,,
 2026-04-16 06:00:02,1624327,firmware/assigned/DL100_US_1.0.17_Build_260331_Rel.155652_2026-03-31_15.58.55_1776319200763.bin,2026-04-17,,
+2026-04-27 03:00:02,1624423,firmware/assigned/DL100_US_1.0.18_Build_260423_Rel.142040_2026-04-23_14.22.30_1777258800709.bin,2026-04-27,,
 2024-12-19 08:20:13,1569271,firmware/assigned/DL100_US_1.0.4_Build_241218_Rel.183551_2024-12-18_18.37.25_1734596411679.bin,initial crawl,,
 2024-12-19 10:20:04,1569271,firmware/assigned/DL100_US_1.0.4_Build_241218_Rel.183551_2024-12-18_18.37.25_1734603602496.bin,initial crawl,,
 2024-12-31 09:40:03,1573527,firmware/assigned/DL100_US_1.0.4_Build_241231_Rel.165325_2024-12-31_16.57.14_1735635600715.bin.rollback,initial crawl,,
@@ -39751,6 +39753,9 @@ creation,size,fullpath,added,removed,wayback_url
 2026-04-23 05:00:03,7392812,firmware/assigned/Tapo_C200v5_en_1.4.2_Build_260422_Rel.38980n_up_boot-signed_1776914432208.bin.rollback,2026-04-24,,
 2026-04-22 12:40:42,7392808,firmware/assigned/Tapo_C200v5_en_1.4.2_Build_260422_Rel.39479n_up_boot-signed_1776861640869.bin,2026-04-23,,
 2026-04-23 11:40:03,7392808,firmware/assigned/Tapo_C200v5_en_1.4.2_Build_260422_Rel.39479n_up_boot-signed_1776914435144.bin.rollback,2026-04-24,,
+2026-04-26 10:20:06,7333512,firmware/assigned/Tapo_C200v5_en_1.4.2_Build_260426_Rel.34868n_up_boot-signed_1777198804416.bin,2026-04-27,,
+2026-04-26 10:20:10,7333508,firmware/assigned/Tapo_C200v5_en_1.4.2_Build_260426_Rel.35792n_up_boot-signed_1777198808750.bin,2026-04-27,,
+2026-04-26 07:20:07,7322396,firmware/assigned/Tapo_C200v5_en_1.4.2_Build_260426_Rel.53852n_up_boot-signed_1777188005811.bin,2026-04-27,,
 2026-04-22 12:40:03,7365648,firmware/assigned/Tapo_C200v5_en_1.4.3_Build_260421_Rel.72358n_up_boot-signed_1776847208173.bin.rollback,2026-04-23,,
 2026-04-22 12:40:05,7365652,firmware/assigned/Tapo_C200v5_en_1.4.3_Build_260421_Rel.72520n_up_boot-signed_1776847214004.bin.rollback,2026-04-23,,
 2026-04-23 03:00:21,7380040,firmware/assigned/Tapo_C200v5_en_1.4.3_Build_260423_Rel.36732n_up_boot-signed_1776913220190.bin,2026-04-23,,
