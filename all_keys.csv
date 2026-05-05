@@ -5157,6 +5157,7 @@ creation,size,fullpath,added,removed,wayback_url
 2021-04-28 09:11:29,7530872,firmware/EAP235-WALLv1_ca_3.0.0_20210323-rel32011_up_signed_1619601087357.bin,initial crawl,,
 2021-10-08 06:07:47,7535524,firmware/EAP235-WALLv1_ca_3.1.0_20210731-rel38933_up_si_1633673265175.bin,initial crawl,,http://web.archive.org/web/20240119235139/http://download.tplinkcloud.com/firmware/EAP235-WALLv1_ca_3.1.0_20210731-rel38933_up_si_1633673265175.bin
 2023-08-17 11:24:02,7663664,firmware/EAP235-WALLv1_ca_3.1.1_[20230510-rel54657]_up_signed_1692271440408.bin,initial crawl,,http://web.archive.org/web/20240201194309/http://download.tplinkcloud.com/firmware/EAP235-WALLv1_ca_3.1.1_%5B20230510-rel54657%5D_up_signed_1692271440408.bin
+2026-05-04 22:38:02,9274144,firmware/EAP235-WALLv1_ca_3.3.0_[20260109-rel56814]_up_signed_1777934280848.bin,2026-05-05,,
 2020-08-18 08:25:11,7447612,firmware/EAP235-WALLv1_jp_1.0.0_20200710-rel61815_up_s_1597739109750.bin,initial crawl,,http://web.archive.org/web/20240129170527/http://download.tplinkcloud.com/firmware/EAP235-WALLv1_jp_1.0.0_20200710-rel61815_up_s_1597739109750.bin
 2021-04-29 01:53:41,7530876,firmware/EAP235-WALLv1_jp_3.0.0_20210323-rel64331_up_si_1619661219353.bin,initial crawl,,http://web.archive.org/web/20240110162412/http://download.tplinkcloud.com/firmware/EAP235-WALLv1_jp_3.0.0_20210323-rel64331_up_si_1619661219353.bin
 2021-04-28 03:23:24,7530876,firmware/EAP235-WALLv1_jp_3.0.0_20210323-rel64331_up_signed_1619580202532.bin,initial crawl,,http://web.archive.org/web/20240120023114/http://download.tplinkcloud.com/firmware/EAP235-WALLv1_jp_3.0.0_20210323-rel64331_up_signed_1619580202532.bin
@@ -40739,6 +40740,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-10-20 04:00:03,11018292,firmware/assigned/Tapo_C232v1_en_1.4.1_Build_251010_Rel.60953n_up_boot-signed_1760341217227.bin.rollback,initial crawl,,
 2025-10-20 04:00:03,11017848,firmware/assigned/Tapo_C232v1_en_1.4.1_Build_251015_Rel.70312n_up_boot-signed_1760932801864.bin,initial crawl,,
 2026-03-16 02:20:03,11017416,firmware/assigned/Tapo_C232v1_en_1.4.3_Build_260311_Rel.42373n_up_boot-signed_1773627601897.bin,2026-03-16,,
+2026-05-04 06:01:00,11037580,firmware/assigned/Tapo_C232v1_en_1.9.1_Build_260504_Rel.17803n_up_boot_2026-05-04_04.56.53_1777874458519.bin,2026-05-05,,
 2025-04-29 04:00:36,11115420,firmware/assigned/Tapo_C236v1_en_1.0.3_Build_250425_Rel.64257n_up_boot-signed_1745899234910.bin,initial crawl,,
 2025-04-29 04:40:44,11115420,firmware/assigned/Tapo_C236v1_en_1.0.3_Build_250429_Rel.43325n_up_boot-signed_1745901643161.bin,initial crawl,,
 2025-04-29 09:40:19,11117916,firmware/assigned/Tapo_C236v1_en_1.0.3_Build_250429_Rel.60684n_up_boot-signed_1745919617260.bin,initial crawl,,
