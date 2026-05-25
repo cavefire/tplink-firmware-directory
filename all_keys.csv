@@ -2275,6 +2275,7 @@ creation,size,fullpath,added,removed,wayback_url
 2024-08-28 12:10:40,43856791,firmware/Archer_MR500()v1_1.8.0_0.9.1_[240507-rel41141]_up_boot_Release_2024-05-07_11.31.12_1724847038248.bin,initial crawl,,
 2024-08-29 03:26:14,43856791,firmware/Archer_MR500()v1_1.8.0_0.9.1_[240507-rel41141]_up_boot_Release_2024-05-07_11.31.12_1724901972348.bin,initial crawl,,
 2025-11-13 01:37:54,16515584,firmware/Archer_MR500()v1_1.9.0_0.9.1_[250123-rel61389]_up_boot_2025-02-18_10.09.43_1762997872625.bin,initial crawl,,
+2026-05-25 01:37:40,43900757,firmware/Archer_MR500(EU)v1_1.11.0_0.9.1_[250917-rel36376]_up_boot_All_Release_2025-09-17_10.30.32_1779673058862.bin,2026-05-25,,
 2023-08-07 06:53:41,43822308,firmware/Archer_MR500(EU)v1_1.5.0_0.9.1_[230625-rel65051]_up_boot_Release_2023-06-26_11.41.54_1691391218898.bin,initial crawl,,
 2023-11-15 06:43:15,43822308,firmware/Archer_MR500(EU)v1_1.5.0_0.9.1_[230625-rel65051]_up_boot_Release_2023-06-26_11.41.54_1700030593226.bin,initial crawl,,
 2024-12-18 06:07:27,43822154,firmware/Archer_MR500(MDMC)v1_1.3.0_0.9.1_[230616-rel64097]_up_boot_all_2023-06-16_19.43.58_1734502045104.bin,initial crawl,,
@@ -2288,6 +2289,7 @@ creation,size,fullpath,added,removed,wayback_url
 2024-04-24 02:45:04,31282692,firmware/Archer_MR505-up-boot_1.13.1_[Build 240205 Rel.59931n]_12_full_1713926702797.bin,initial crawl,,
 2024-10-10 09:37:59,31282692,firmware/Archer_MR505-up-boot_1.13.1_[Build 240205 Rel.59931n]_12_full_1728553077667.bin,initial crawl,,
 2025-04-03 08:13:44,31286421,firmware/Archer_MR505-up-boot_1.13.2_[Build 240729 Rel.67532n]_16_full_1743668022490.bin,initial crawl,,
+2026-05-25 01:37:17,43900757,firmware/Archer_MR550(EU)v1.0_1.11.0_0.9.1_[250917-rel36376]_up_boot_All_Release_2025-09-17_10.40.33_1779673035929.bin,2026-05-25,,
 2023-08-14 01:55:29,43822308,firmware/Archer_MR550(EU)v1.0_1.5.0_0.9.1_[230625-rel65051]_up_boot_Release_2023-07-05_09.11.24_1691978127218.bin,initial crawl,,http://web.archive.org/web/20240112010815/http://download.tplinkcloud.com/firmware/Archer_MR550%28EU%29v1.0_1.5.0_0.9.1_%5B230625-rel65051%5D_up_boot_Release_2023-07-05_09.11.24_1691978127218.bin
 2023-11-15 06:38:40,43822308,firmware/Archer_MR550(EU)v1.0_1.5.0_0.9.1_[230625-rel65051]_up_boot_Release_2023-07-05_09.11.24_1700030318132.bin,initial crawl,,
 2024-05-11 03:59:35,43849063,firmware/Archer_MR550(EU)v1.0_1.7.0_0.9.1_[231109-rel44740]_up_boot_Release_2024-04-25_17.12.25_1715399973835.bin,initial crawl,,
@@ -3645,6 +3647,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-07-31 08:23:54,15729852,firmware/C340-W_2.0_en_2.1.1_Build_250717_Rel.66528n_up_boot-signed_1753950232987.bin,initial crawl,,
 2025-08-04 02:16:13,15729852,firmware/C340-W_2.0_en_2.1.1_Build_250717_Rel.66528n_up_boot-signed_1754273772035.bin,initial crawl,,
 2025-08-04 06:52:07,15729852,firmware/C340-W_2.0_en_2.1.1_Build_250717_Rel.66528n_up_boot-signed_1754290325767.bin,initial crawl,,
+2026-05-25 01:11:22,16057804,firmware/C340-W_2.0_en_2.2.1_Build_260518_Rel.15189n_up_boot_signed_1779671480889.bin,2026-05-25,,
 2022-07-19 11:08:12,6989128,firmware/C340-Wx_1.0_en_2.0.0_Build_220530_Rel.52744n_u_1658228890133.bin,initial crawl,,http://web.archive.org/web/20240201201759/http://download.tplinkcloud.com/firmware/C340-Wx_1.0_en_2.0.0_Build_220530_Rel.52744n_u_1658228890133.bin
 2022-07-28 09:22:47,6989124,firmware/C340-Wx_1.0_en_2.0.1_Build_220629_Rel.69439n_u_1659000165679.bin,initial crawl,,http://web.archive.org/web/20240108234133/http://download.tplinkcloud.com/firmware/C340-Wx_1.0_en_2.0.1_Build_220629_Rel.69439n_u_1659000165679.bin
 2023-02-08 08:39:32,6858528,firmware/C340-Wx_1.0_en_2.0.2_Build_230115_Rel.63351n_u_1675845570390.bin,initial crawl,,http://web.archive.org/web/20240131084553/http://download.tplinkcloud.com/firmware/C340-Wx_1.0_en_2.0.2_Build_230115_Rel.63351n_u_1675845570390.bin
@@ -3851,6 +3854,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-07-31 08:23:46,15619348,firmware/C440-W_2.0_en_2.1.1_Build_250717_Rel.66632n_up_boot-signed_1753950224587.bin,initial crawl,,
 2025-08-04 02:07:20,15619348,firmware/C440-W_2.0_en_2.1.1_Build_250717_Rel.66632n_up_boot-signed_1754273239230.bin,initial crawl,,
 2025-08-04 06:52:28,15619348,firmware/C440-W_2.0_en_2.1.1_Build_250717_Rel.66632n_up_boot-signed_1754290346669.bin,initial crawl,,
+2026-05-25 01:12:48,16024032,firmware/C440-W_2.0_en_2.2.1_Build_260518_Rel.15975n_up_boot_signed_1779671566285.bin,2026-05-25,,
 2022-07-19 11:07:26,6989868,firmware/C440-Wx_1.0_en_2.0.0_Build_220530_Rel.54144n_u_1658228844883.bin,initial crawl,,http://web.archive.org/web/20240106114006/http://download.tplinkcloud.com/firmware/C440-Wx_1.0_en_2.0.0_Build_220530_Rel.54144n_u_1658228844883.bin
 2022-07-28 09:22:21,6989840,firmware/C440-Wx_1.0_en_2.0.1_Build_220629_Rel.69716n_u_1659000139745.bin,initial crawl,,http://web.archive.org/web/20240126201717/http://download.tplinkcloud.com/firmware/C440-Wx_1.0_en_2.0.1_Build_220629_Rel.69716n_u_1659000139745.bin
 2023-02-08 08:38:31,6859280,firmware/C440-Wx_1.0_en_2.0.2_Build_230115_Rel.60913n_u_1675845509698.bin,initial crawl,,http://web.archive.org/web/20240201192343/http://download.tplinkcloud.com/firmware/C440-Wx_1.0_en_2.0.2_Build_230115_Rel.60913n_u_1675845509698.bin
@@ -3956,6 +3960,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-07-31 08:25:44,15752380,firmware/C540-W4_2.0_en_2.1.1_Build_250717_Rel.67730n_up_boot-signed_1753950342797.bin,initial crawl,,
 2025-08-04 02:10:45,15752380,firmware/C540-W4_2.0_en_2.1.1_Build_250717_Rel.67730n_up_boot-signed_1754273443797.bin,initial crawl,,
 2025-08-04 06:52:37,15752380,firmware/C540-W4_2.0_en_2.1.1_Build_250717_Rel.67730n_up_boot-signed_1754290355902.bin,initial crawl,,
+2026-05-25 01:09:42,16099152,firmware/C540-W4_2.0_en_2.2.1_Build_260518_Rel.15279n_up_boot_signed_1779671381027.bin,2026-05-25,,
 2022-09-06 04:22:46,7121876,firmware/C540-Wx_1.0_en_2.0.1_Build_220629_Rel.70810n_u_1662438164475.bin,initial crawl,,http://web.archive.org/web/20240201194620/http://download.tplinkcloud.com/firmware/C540-Wx_1.0_en_2.0.1_Build_220629_Rel.70810n_u_1662438164475.bin
 2023-02-08 08:38:06,6991276,firmware/C540-Wx_1.0_en_2.0.2_Build_230115_Rel.60936n_u_1675845484674.bin,initial crawl,,http://web.archive.org/web/20240107020856/http://download.tplinkcloud.com/firmware/C540-Wx_1.0_en_2.0.2_Build_230115_Rel.60936n_u_1675845484674.bin
 2023-03-10 08:24:25,6991056,firmware/C540-Wx_1.0_en_2.0.3_Build_230215_Rel.77797n_u_1678436663201.bin,initial crawl,,http://web.archive.org/web/20240202085720/http://download.tplinkcloud.com/firmware/C540-Wx_1.0_en_2.0.3_Build_230215_Rel.77797n_u_1678436663201.bin
@@ -17096,6 +17101,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-06-10 07:26:50,11633420,firmware/S655I_1.0_en_1.1.0_Build_250509_Rel.69940n_up_boot-signed_1749540408496.bin,initial crawl,,
 2025-07-18 01:22:08,11633432,firmware/S655I_1.0_en_1.1.1_Build_250625_Rel.64224n_up_boot-signed_1752801726965.bin,initial crawl,,
 2025-07-18 02:37:43,11633432,firmware/S655I_1.0_en_1.1.1_Build_250625_Rel.64224n_up_boot-signed_1752806262118.bin,initial crawl,,
+2026-05-25 01:07:24,15220816,firmware/S655I_1.0_en_1.2.1_Build_260420_Rel.18615n_up_boot_signed_1779671242569.bin,2026-05-25,,
 2023-04-23 06:22:23,2806124,firmware/S7 1.0_en_1.4.1 Build 20230324 Rel. 50892_EU_US_JP_B4_up_1682230941627.bin,initial crawl,,
 2023-04-23 06:22:51,2806124,firmware/S7 1.0_en_1.4.1 Build 20230324 Rel. 50892_EU_US_JP_B4_up_1682230969925.bin,initial crawl,,http://web.archive.org/web/20240115114605/http://download.tplinkcloud.com/firmware/S7%201.0_en_1.4.1%20Build%2020230324%20Rel.%2050892_EU_US_JP_B4_up_1682230969925.bin
 2023-04-23 06:25:01,2806124,firmware/S7 1.0_en_1.4.1 Build 20230324 Rel. 50892_EU_US_JP_B4_up_1682231099523.bin,initial crawl,,http://web.archive.org/web/20240129204220/http://download.tplinkcloud.com/firmware/S7%201.0_en_1.4.1%20Build%2020230324%20Rel.%2050892_EU_US_JP_B4_up_1682231099523.bin
@@ -18449,6 +18455,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-02-06 03:26:51,79811877,firmware/TL-MR6500vV3_1.0.0_0.9.1_up_boot(241118)_All_Release_2024-11-18_19.42.32_1738812409835.bin,initial crawl,,
 2026-04-14 01:53:48,79971607,firmware/TL-MR6500vV3_1.0.0_0.9.1_up_boot(251113)_Rel_2025-11-13_13.49.59_1776131626392.bin,2026-04-14,,
 2025-02-25 06:12:57,79811919,firmware/TL-MR6500vV3_1.0.0_0.9.1_up_boot_All_Release(241125)_2024-11-25_12.52.44_1740463975337.bin,initial crawl,,
+2026-05-25 01:40:05,79972231,firmware/TL-MR6500vV3_1.1.0_0.9.1_up_boot(251117)_Rel_2025-11-18_10.01.12_1779673203552.bin,2026-05-25,,
 2025-07-25 01:59:41,79811759,firmware/TL-MR6500vV3_1.1.0_0.9.1_up_boot_All_Release(250214)_2025-02-14_12.36.53_1753408779702.bin,initial crawl,,
 2025-07-25 01:57:04,79811814,firmware/TL-MR6500vV3_1.1.0_0.9.1_up_boot_All_Release(250214)_2025-02-14_13.07.19_1753408622915.bin,initial crawl,,
 2026-02-03 09:08:08,79971840,firmware/TL-MR6500vV3_1.2.0_0.9.1_up_boot(251114)_Rel_2025-11-15_19.53.01_1770109686568.bin,2026-02-04,,
@@ -21701,6 +21708,7 @@ creation,size,fullpath,added,removed,wayback_url
 2026-05-06 09:26:02,15807044,firmware/Tapo_C260v1_en_1.1.16_Build_260422_Rel.14604n_up_boot-signed_1778059560298.bin,2026-05-07,,
 2026-05-06 11:39:13,15807044,firmware/Tapo_C260v1_en_1.1.16_Build_260422_Rel.14604n_up_boot-signed_1778067551601.bin,2026-05-07,,
 2026-05-07 02:22:45,15807044,firmware/Tapo_C260v1_en_1.1.16_Build_260422_Rel.14604n_up_boot-signed_1778120563417.bin,2026-05-07,,
+2026-05-25 01:53:04,15807456,firmware/Tapo_C260v1_en_1.1.17_Build_260508_Rel.21677n_up_boot-signed_1779673983098.bin,2026-05-25,,
 2025-10-14 09:09:07,15757560,firmware/Tapo_C260v1_en_1.1.3_Build_251010_Rel.61433n_up_boot-signed_1760432946165.bin,initial crawl,,
 2025-10-15 02:07:50,15757560,firmware/Tapo_C260v1_en_1.1.3_Build_251010_Rel.61433n_up_boot-signed_1760494068289.bin,initial crawl,,
 2025-12-17 07:08:16,15764244,firmware/Tapo_C260v1_en_1.1.8_Build_251205_Rel.64131n_up_boot-signed_1765955295016.bin,2025-12-18,,
@@ -33271,6 +33279,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-07-24 09:20:02,40651,firmware/assigned/4824943_KE100(EU)_2.11.0_Build_250714_Rel.173949_2025-07-14_17.40.00_1753348800451.bin,initial crawl,,
 2026-04-28 07:20:09,35885120,firmware/assigned/825_codec_2.0.3_add_260426_Rel.67138n_up_boot_signed_1777360807876.bin,2026-04-29,,
 2026-04-29 08:00:44,35885192,firmware/assigned/825_codec_2.0.3_no_260428_Rel.83142n_up_boot_signed_1777449642851.bin,2026-04-30,,
+2026-05-25 02:00:17,21768724,firmware/assigned/Archer_MR200(EU)v8_1.5.0_0.9.1_[260518-rel60697]_up_boot_All_Debug_2026-05-18_11.44.19_1779674415224.bin,2026-05-25,,
 2025-07-08 09:20:24,78395867,firmware/assigned/Archer_MR400(EU)v5_1.2.0_0.9.1_[250703-rel57203]_up_boot_All_Debug_A02_2025-07-03_13.59.48_1751966422011.bin,initial crawl,,
 2026-05-19 03:00:16,21768724,firmware/assigned/Archer_MR402(EU)v1_1.4.0_0.9.1_[260511-rel45431]_up_boot_all_debug_2026-05-11_16.07.29_1779159614720.bin,2026-05-19,,
 2025-05-22 09:20:03,16515584,firmware/assigned/Archer_MR500()v1_1.11.0_0.9.1_[250508-rel35816]_up_boot_2025-05-08_19.08.36_1747807203325.bin.rollback,initial crawl,,
@@ -33370,6 +33379,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-08-21 11:40:28,39328729,firmware/assigned/BE85_SP1v2_V2-up-ver1-2-1-P1[20250731-rel15505]_2025-08-01_10.42.20_1755776426116.bin,initial crawl,,
 2026-02-10 12:00:38,39328729,firmware/assigned/BE85_SP1v2_V2-up-ver1-2-1-P1[20251021-rel31285]_2025-10-21_18.56.19_1770724836208.bin,2026-02-11,,
 2026-03-16 08:00:51,39328729,firmware/assigned/BE85_SP1v2_V2-up-ver1-2-1-P1[20260311-rel50665]_2026-03-12_17.36.07_1773648049856.bin,2026-03-17,,
+2026-05-25 02:00:23,39328729,firmware/assigned/BE85_SP1v2_V2-up-ver1-2-1-P1[20260311-rel50665]_2026-03-12_17.36.07_1779674421590.bin,2026-05-25,,
 2025-09-04 10:01:18,39328729,firmware/assigned/BE85_SP1v2_V2-up-ver1-2-2-P1[20250825-rel33445]_2025-08-25_17.31.42_1756980076185.bin,initial crawl,,
 2026-05-22 02:16:35,39328729,firmware/assigned/BE85_SP1v2_V2-up-ver1-2-3-P1[20260512-rel38227]_2026-05-12_03.47.31_1779416193957.bin,2026-05-22,,
 2025-01-16 13:00:07,41032722,firmware/assigned/BE85v2_BE85v3_SP1v2_V2-up-ver1-1-2-P1[20250110-rel39431]_2025-01-10_13.30.41_1737032405483.bin,initial crawl,,
@@ -40536,6 +40546,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-07-24 03:00:08,8025144,firmware/assigned/Tapo_C200v4_en_1.4.2_Build_250723_Rel.43888n_up_boot-signed_1753269611046.bin.rollback,initial crawl,,
 2025-07-24 03:00:03,8025144,firmware/assigned/Tapo_C200v4_en_1.4.2_Build_250723_Rel.43888n_up_boot-signed_1753274404523.bin.rollback,initial crawl,,
 2025-07-23 12:00:43,8025148,firmware/assigned/Tapo_C200v4_en_1.4.2_Build_250723_Rel.66773n_up_boot-signed_1753272041280.bin,initial crawl,,
+2026-05-25 01:20:05,8025172,firmware/assigned/Tapo_C200v4_en_1.9.2_Build_260521_Rel.30485n_up_boot-signed_1779672003747.bin,2026-05-25,,
 2024-06-15 08:40:18,7346908,firmware/assigned/Tapo_C200v5_en_1.0.13_Build_240614_Rel.68529n_up_boot-signed_1718440816810.bin,initial crawl,,
 2024-10-24 08:20:19,7347580,firmware/assigned/Tapo_C200v5_en_1.0.13_Build_240619_Rel.72505n_up_boot-signed_1729758017646.bin,initial crawl,,
 2024-07-05 08:20:18,7347584,firmware/assigned/Tapo_C200v5_en_1.0.14_Build_240702_Rel.63182n_up_boot-signed_1720167616942.bin,initial crawl,,
@@ -44193,6 +44204,7 @@ creation,size,fullpath,added,removed,wayback_url
 2026-05-19 02:21:51,14695338,firmware/assigned/Tapo_C520WSv2_en_1.2.6_Build_260519_Rel.7128n_up_boot-signed_1779157309757.bin,2026-05-19,,
 2026-05-20 07:41:00,14695378,firmware/assigned/Tapo_C520WSv2_en_1.2.6_Build_260520_Rel.25153n_up_boot-signed_1779262858517.bin,2026-05-21,2026-05-22,
 2026-05-21 04:20:03,14695378,firmware/assigned/Tapo_C520WSv2_en_1.2.6_Build_260520_Rel.25153n_up_boot-signed_1779262858517.bin.rollback,2026-05-22,,
+2026-05-24 11:40:36,14694738,firmware/assigned/Tapo_C520WSv2_en_1.2.6_Build_260524_Rel.34312n_up_boot-signed_1779622834363.bin,2026-05-25,,
 2026-01-28 12:21:07,14668138,firmware/assigned/Tapo_C520WSv2_en_1.3.1_Build_260129_Rel.58488n_up_boot-signed_1769602865980.bin,2026-01-29,,
 2026-02-05 06:40:05,14668158,firmware/assigned/Tapo_C520WSv2_en_1.3.1_Build_260202_Rel.52654n_up_boot-signed_1770273603368.bin,2026-02-06,,
 2026-02-06 08:00:27,14668158,firmware/assigned/Tapo_C520WSv2_en_1.3.1_Build_260202_Rel.52654n_up_boot-signed_1770364825303.bin,2026-02-07,,
@@ -50279,6 +50291,7 @@ creation,size,fullpath,added,removed,wayback_url
 2025-09-12 03:27:13,56234713,firmware/ge550v1-up-us-ver1-1-2-P1[20250828-rel57093]_nosign_2025-08-29_00.19.59_1757647631173.bin,initial crawl,,
 2025-08-19 01:22:52,56234713,firmware/ge550v1-up-us-ver1-2-0-P1[20250731-rel37684]_nosign_2025-07-31_19.51.09_1755566570047.bin,initial crawl,,
 2025-09-12 03:25:41,56234713,firmware/ge550v1-up-us-ver1-2-1-P1[20250828-rel57524]_nosign_2025-08-29_00.27.17_1757647539887.bin,initial crawl,,
+2026-05-25 03:07:16,63836889,firmware/ge550v1-up-us-ver1-3-0-P1[20260331-rel26942]_nosign_2026-03-31_08.22.24_1779678434767.bin,2026-05-25,,
 2025-10-20 16:54:59,56234713,firmware/ge550v2-ge650v2_6-up-all-ver1-0-6-P1[20250920-rel13059]_2025-09-21_17.31.02_1760979297245.bin,initial crawl,,
 2025-12-04 01:54:41,56234713,firmware/ge550v2-ge650v2_6-up-all-ver1-0-6-P1[20250920-rel13059]_2025-09-21_17.31.02_1764813279045.bin,2025-12-04,,
 2025-10-28 02:27:44,56234713,firmware/ge550v2-ge650v2_6-up-all-ver1-1-0-P1[20250920-rel20342]_2025-09-21_18.24.47_1761618462352.bin,initial crawl,,
